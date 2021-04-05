@@ -1,0 +1,691 @@
+"","PIN","Matriculation.Date","Sex","Academic.Interest.1","Academic.Interest.2","Translated.SAT.I.Math","‘New’ High School Grades."
+"1","N356119421208",2018,"F","Philosophy, Politics and Economics","Global Affairs",720,"A"
+"2","N346119423208",2018,"F","Life Sciences","Environmental Studies",750,"A"
+"3","N391116401207",2016,"F","Arts & Humanities","Literature",NA,"A"
+"4","N363115405262",2016,"F","Psychology","Anthropology",NA,"A"
+"5","N367115424262",2016,"F","Arts & Humanities","Global Affairs",NA,"A"
+"6","N395116423207",2016,"F","Literature","Arts & Humanities",NA,"A"
+"7","N339115425262",2016,"M","Economics","Philosophy, Politics and Economics",720,"A"
+"8","N381117405215",2017,"F","Literature","Arts & Humanities",NA,"A"
+"9","N354117405215",2017,"F","Literature","Undecided",NA,"A"
+"10","N327117401243",2017,"F","Literature","Philosophy, Politics and Economics",NA,"A"
+"11","N390117405215",2017,"F","History","Global Affairs",NA,"A"
+"12","N302117421215",2017,"F","Anthropology","Philosophy, Politics and Economics",NA,"A"
+"13","N365117402215",2017,"F","Global Affairs","Philosophy, Politics and Economics",NA,"A"
+"14","N391117401215",2017,"F","History","Global Affairs",NA,"A"
+"15","N378114401240",2017,"M","Global Affairs","Arts & Humanities",NA,"A"
+"16","N366119414209",2018,"F","Literature","Arts & Humanities",NA,"A"
+"17","N347119421208",2018,"M","Economics","Arts & Humanities",NA,"A"
+"18","N392119421208",2018,"M","Economics","Life Sciences",NA,"A"
+"19","N325119402208",2018,"F","Philosophy, Politics and Economics","Literature",NA,"A"
+"20","N394119418207",2018,"F","Literature","Psychology",NA,"A"
+"21","N391119423208",2018,"F","Literature","Arts & Humanities",NA,"A"
+"22","N372119423209",2018,"F","Anthropology","History",NA,"A"
+"23","N307119402208",2018,"F","Urban Studies","Environmental Studies",NA,"A"
+"24","N357115425262",2016,"F","Global Affairs","Urban Studies",NA,"B"
+"25","N393117425215",2017,"F","Literature","Arts & Humanities",NA,"B"
+"26","N353117408215",2017,"F","Literature","Anthropology",NA,"B"
+"27","N367117424215",2017,"F","Arts & Humanities","Global Affairs",NA,"B"
+"28","N357117425215",2017,"F","Literature","Philosophy, Politics and Economics",NA,"B"
+"29","N348119418208",2018,"F","Economics","Global Affairs",NA,"B"
+"30","N324119402209",2018,"M","History","Global Affairs",NA,"B"
+"31","N309119423209",2018,"F","Anthropology","Arts & Humanities",NA,"B"
+"32","N382119423208",2018,"M","Literature","Psychology",NA,"B"
+"33","N387119413207",2018,"F","Arts & Humanities","Literature",NA,"B"
+"34","N358119414208",2018,"F","Literature","Literature",NA,"B"
+"35","N379119412216",2018,"F","Literature","Arts & Humanities",NA,"B"
+"36","N387119412208",2018,"F","Arts & Humanities","Anthropology",NA,"C"
+"37","N381119425207",2018,"F","Psychology","Economics",NA,"C"
+"38","N339119418208",2018,"M","Arts & Humanities","Undecided",NA,"C"
+"39","N306119402209",2018,"M","History","Global Affairs",NA,"C"
+"40","N320119425201",2018,"M","Philosophy, Politics and Economics","Psychology",NA,"C"
+"41","N385117424215",2017,"M","Literature","Mathematical, Computational and Statistical Sciences",NA,"A"
+"42","N304119408208",2018,"F","Undecided","Psychology",770,"A"
+"43","N364119423208",2018,"F","Arts & Humanities","Philosophy, Politics and Economics",790,"A"
+"44","N372116401280",2017,"M","Anthropology","Physical Sciences",800,"A"
+"45","N385115424262",2016,"F","Economics","Global Affairs",NA,"A"
+"46","N352115410262",2016,"F","Philosophy, Politics and Economics","Arts & Humanities",NA,"A"
+"47","N341115418224",2016,"F","Psychology","Life Sciences",NA,"A"
+"48","N372115405262",2016,"F",NA,"Arts & Humanities",800,"A"
+"49","N380115408262",2016,"F","Undecided","Undecided",NA,"A"
+"50","N395117424214",2017,"F","Arts & Humanities","Physical Sciences",NA,"A"
+"51","N352117410215",2017,"F","Environmental Studies","Urban Studies",NA,"A"
+"52","N368117423215",2017,"M","Economics","Global Affairs",NA,"A"
+"53","N388117418215",2017,"F","Urban Studies","Environmental Studies",NA,"A"
+"54","N345117425209",2017,"M","Psychology","Physical Sciences",NA,"A"
+"55","N340117421222",2017,"F","Urban Studies","Psychology",NA,"A"
+"56","N370117410215",2017,"M","Anthropology","Global Affairs",NA,"A"
+"57","N392117402215",2017,"F","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"58","N339117421209",2017,"M","Physical Sciences","Physical Sciences",NA,"A"
+"59","N373113405290",2017,"M","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"60","N345117405215",2017,"F","Literature","Arts & Humanities",NA,"A"
+"61","N324117405209",2017,"M","Environmental Studies","Physical Sciences",800,"A"
+"62","N343117410215",2017,"F","Anthropology","Urban Studies",NA,"A"
+"63","N303117418215",2017,"F","Philosophy","Literature",NA,"A"
+"64","N350114423299",2017,"M","Physical Sciences","Physical Sciences",NA,"A"
+"65","N300117424215",2017,"F","Psychology","Mathematical, Computational and Statistical Sciences",NA,"A"
+"66","N322119408208",2018,"M","History","Philosophy, Politics and Economics",NA,"A"
+"67","N373119423208",2018,"F","Economics","Global Affairs",NA,"A"
+"68","N380119424209",2018,"M","Economics","Philosophy, Politics and Economics",NA,"A"
+"69","N330119410208",2018,"F","Philosophy, Politics and Economics","Physical Sciences",NA,"A"
+"70","N388119410208",2018,"M","Economics","Philosophy, Politics and Economics",NA,"A"
+"71","N393119418208",2018,"F","Undecided","Undecided",NA,"A"
+"72","N360116405246",2018,"F","Environmental Studies","Anthropology",NA,"A"
+"73","N377119413208",2018,"M","Arts & Humanities","Physical Sciences",NA,"A"
+"74","N359117405268",2018,"F","Arts & Humanities","Urban Studies",NA,"A"
+"75","N301117423215",2017,"F","History","Philosophy, Politics and Economics",NA,"A"
+"76","N344117408215",2017,"F","Economics","Mathematical, Computational and Statistical Sciences",800,"A"
+"77","N351119401208",2018,"F","Philosophy, Politics and Economics","Economics",NA,"A"
+"78","N383119423207",2018,"F","Anthropology","Global Affairs",NA,"B"
+"79","N326119424209",2018,"M","Philosophy","Psychology",NA,"A"
+"80","N302119410209",2018,"M","Mathematical, Computational and Statistical Sciences","Economics",770,"B"
+"81","N348117425215",2017,"F","Philosophy, Politics and Economics","Anthropology",710,"A"
+"82","N384119414209",2018,"F","History","Global Affairs",710,"A"
+"83","N349117424215",2017,"F","Global Affairs","Economics",780,"A"
+"84","N379119410208",2018,"F","Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",800,"A"
+"85","N352119425209",2018,"F","Life Sciences","Arts & Humanities",790,"A"
+"86","N355119423208",2018,"F","Philosophy, Politics and Economics","Economics",780,"A"
+"87","N365115402262",2016,"F","Arts & Humanities","Economics",NA,"A"
+"88","N374115402262",2016,"F","Urban Studies","Life Sciences",NA,"A"
+"89","N318115402282",2016,"F","Global Affairs","History",NA,"A"
+"90","N381115405262",2016,"F","Mathematical, Computational and Statistical Sciences","Global Affairs",800,"A"
+"91","N387115421262",2016,"F","Literature","Global Affairs",NA,"A"
+"92","N338115402262",2016,"F","Undecided","Urban Studies",NA,"A"
+"93","N332115412272",2016,"F","Psychology","Global Affairs",NA,"A"
+"94","N366115425262",2016,"F","Philosophy","Literature",NA,"A"
+"95","N311116418208",2016,"F","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"96","N343115410262",2016,"F","Economics","Global Affairs",NA,"A"
+"97","N345115405262",2016,"F","Urban Studies","Environmental Studies",NA,"A"
+"98","N301115412200",2017,"F","Urban Studies","Physical Sciences",NA,"A"
+"99","N364117401215",2017,"M","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"100","N343117401209",2017,"M","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"101","N379117418215",2017,"F","Global Affairs","Economics",NA,"A"
+"102","N335115424200",2017,"F","Psychology","Global Affairs",790,"A"
+"103","N347117402215",2017,"F","Global Affairs","Philosophy, Politics and Economics",NA,"A"
+"104","N333117405227",2017,"F","Psychology","Life Sciences",NA,"A"
+"105","N398114424299",2017,"F","Urban Studies","Philosophy, Politics and Economics",NA,"A"
+"106","N362117408215",2017,"F","Urban Studies","Philosophy, Politics and Economics",NA,"A"
+"107","N393117421263",2017,"F","Philosophy, Politics and Economics","History",NA,"A"
+"108","N383117402215",2017,"F","Psychology","Anthropology",NA,"A"
+"109","N313117412271",2017,"F","Philosophy, Politics and Economics","Global Affairs",780,"A"
+"110","N382117423219",2017,"F","Life Sciences","Philosophy",NA,"A"
+"111","N308117408215",2017,"F","Psychology","Anthropology",NA,"A"
+"112","N387117421215",2017,"F","History","Literature",NA,"A"
+"113","N342117405209",2017,"M","Physical Sciences","Psychology",NA,"A"
+"114","N375117425215",2017,"F","Psychology","Urban Studies",NA,"A"
+"115","N373117401215",2017,"M","Philosophy, Politics and Economics","History",NA,"A"
+"116","N343119425209",2018,"F","Psychology","Life Sciences",NA,"A"
+"117","N390119425207",2018,"F","Psychology","Life Sciences",NA,"A"
+"118","N388119412207",2018,"F","Anthropology","Psychology",NA,"A"
+"119","N396119412208",2018,"M","Philosophy","Mathematical, Computational and Statistical Sciences",NA,"A"
+"120","N324119401208",2018,"F","Psychology","Mathematical, Computational and Statistical Sciences",NA,"A"
+"121","N395117414218",2018,"F","Psychology","History",NA,"A"
+"122","N351119402209",2018,"M","Psychology","Mathematical, Computational and Statistical Sciences",NA,"A"
+"123","N375119421207",2018,"M","Economics","Anthropology",NA,"A"
+"124","N317119424209",2018,"M","History","Literature",NA,"A"
+"125","N374119418209",2018,"F","Anthropology","Arts & Humanities",NA,"A"
+"126","N308119424209",2018,"F","Psychology","Economics",NA,"A"
+"127","N311119412208",2018,"M","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"128","N378119413207",2018,"F","Philosophy, Politics and Economics","Economics",NA,"A"
+"129","N397119410208",2018,"F","Literature","Arts & Humanities",NA,"A"
+"130","N353119425208",2018,"M","Urban Studies","Anthropology",NA,"A"
+"131","N323119401209",2018,"F","Undecided","Undecided",NA,"A"
+"132","N391118421237",2018,"M","Global Affairs","Philosophy, Politics and Economics",NA,"A"
+"133","N369119410209",2018,"F","Arts & Humanities","Philosophy, Politics and Economics",750,"B"
+"134","N354115405262",2016,"M","Psychology","Physical Sciences",NA,"B"
+"135","N319115424283",2016,"F","Philosophy, Politics and Economics","Undecided",NA,"B"
+"136","N350119401209",2018,"F","Philosophy, Politics and Economics","Global Affairs",NA,"B"
+"137","N317119425208",2018,"M","Anthropology","Anthropology",710,"B"
+"138","N336119424208",2018,"F","Philosophy, Politics and Economics","Anthropology",780,"B"
+"139","N363114412242",2016,"F","Global Affairs","Literature",NA,"B"
+"140","N384115425262",2016,"M","Philosophy, Politics and Economics","Global Affairs",760,"B"
+"141","N360115412262",2016,"F","Economics","Global Affairs",NA,"B"
+"142","N366117425215",2017,"M","Psychology","Anthropology",NA,"B"
+"143","N378119413216",2018,"F","Anthropology","Undecided",NA,"B"
+"144","N300118421234",2018,"M","Urban Studies","Economics",NA,"B"
+"145","N335119425208",2018,"F","Arts & Humanities","Philosophy, Politics and Economics",NA,"B"
+"146","N314113414263",2018,"M","Anthropology","Global Affairs",NA,"B"
+"147","N349119413209",2018,"M","Philosophy, Politics and Economics","Global Affairs",NA,"B"
+"148","N344119424209",2018,"M","Economics","Anthropology",NA,"B"
+"149","N315119402209",2018,"F","Philosophy, Politics and Economics","Literature",NA,"B"
+"150","N334119425209",2018,"M","Global Affairs","Philosophy, Politics and Economics",NA,"B"
+"151","N371115408262",2016,"M","Philosophy, Politics and Economics","Undecided",NA,"C"
+"152","N378115421262",2016,"F","Economics","Arts & Humanities",NA,"C"
+"153","N330116424222",2016,"F","Global Affairs","Philosophy, Politics and Economics",NA,"C"
+"154","N341117408209",2017,"F","Life Sciences","Literature",NA,"C"
+"155","N314117410271",2017,"M","Philosophy, Politics and Economics","Global Affairs",NA,"C"
+"156","N306117412215",2017,"F","Arts & Humanities","Global Affairs",NA,"C"
+"157","N311116401296",2017,"M","Anthropology","Economics",NA,"C"
+"158","N333117414204",2017,"F","Global Affairs","Philosophy, Politics and Economics",700,"B"
+"159","N383119418209",2018,"M","Global Affairs","Philosophy, Politics and Economics",NA,"A"
+"160","N366117405203",2017,"M","History","Global Affairs",650,"A"
+"161","N384119418208",2018,"F","Literature","Philosophy, Politics and Economics",690,"A"
+"162","N392117408203",2017,"F","Arts & Humanities","Arts & Humanities",780,"A"
+"163","N369117425203",2017,"F","Global Affairs","Psychology",730,"D"
+"164","N313119405209",2018,"F","Psychology","Philosophy",790,"D"
+"165","N300117402204",2017,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",650,"C"
+"166","N340119408208",2018,"M","Philosophy, Politics and Economics","Global Affairs",720,"C"
+"167","N382119424207",2018,"M","Philosophy, Politics and Economics","Global Affairs",790,"C"
+"168","N341117418204",2017,"F","Life Sciences","Psychology",690,"C"
+"169","N324119425219",2018,"F","Philosophy, Politics and Economics","Economics",640,"B"
+"170","N303119410208",2018,"F","Mathematical, Computational and Statistical Sciences","Life Sciences",650,"B"
+"171","N311117424204",2017,"M","Undecided","Undecided",660,"B"
+"172","N357117405203",2017,"F","Life Sciences","Life Sciences",720,"B"
+"173","N329119418209",2018,"F","Psychology","Literature",720,"B"
+"174","N333116423296",2017,"F","Anthropology",NA,730,"B"
+"175","N312119410208",2018,"M","Life Sciences","Global Affairs",780,"B"
+"176","N325119424219",2018,"F","Global Affairs","Psychology",790,"B"
+"177","N316119402208",2018,"F","Life Sciences","Physical Sciences",610,"B"
+"178","N336117410204",2017,"F","Global Affairs","Urban Studies",720,"B"
+"179","N340117423203",2017,"F","Philosophy, Politics and Economics","Urban Studies",760,"B"
+"180","N378117421215",2017,"M","Environmental Studies","Arts & Humanities",800,"B"
+"181","N301116405296",2017,"F","Global Affairs","Philosophy, Politics and Economics",NA,"B"
+"182","N327116414296",2017,"F","Global Affairs","Psychology",NA,"B"
+"183","N330117423204",2017,"F","Environmental Studies","Global Affairs",760,"B"
+"184","N354119424208",2018,"F","Life Sciences","Psychology",NA,"B"
+"185","N389119408208",2018,"F","Philosophy, Politics and Economics","Undecided",NA,"B"
+"186","N310119413208",2018,"F","Environmental Studies","Global Affairs",NA,"B"
+"187","N316117413204",2017,"F","Undecided","Anthropology",730,"A"
+"188","N341117421203",2017,"M","Economics","Life Sciences",750,"A"
+"189","N322119401219",2018,"F","Undecided","Physical Sciences",760,"A"
+"190","N375119414209",2018,"M","Environmental Studies","Life Sciences",780,"A"
+"191","N318117410204",2017,"F","Life Sciences","Psychology",790,"A"
+"192","N334117408243",2017,"F","Global Affairs","Philosophy, Politics and Economics",740,"A"
+"193","N349117401203",2017,"F","Life Sciences","Psychology",690,"A"
+"194","N314119401209",2018,"F","Psychology","Environmental Studies",NA,"A"
+"195","N374119423207",2018,"F","Philosophy, Politics and Economics","Psychology",NA,"A"
+"196","N316119424219",2018,"F","Arts & Humanities","Undecided",NA,"A"
+"197","N314119402219",2018,"F","Psychology","Arts & Humanities",NA,"A"
+"198","N367119413209",2018,"M","Philosophy, Politics and Economics","Philosophy",740,"D"
+"199","N393117405203",2017,"F","Anthropology","Arts & Humanities",740,"C"
+"200","N322119405209",2018,"M","Economics","Philosophy, Politics and Economics",770,"C"
+"201","N332117418204",2017,"F","Economics","Undecided",NA,"C"
+"202","N359117402203",2017,"F","Environmental Studies","Physical Sciences",780,"A"
+"203","N335117412204",2017,"F","Life Sciences","Economics",710,"B"
+"204","N399119414221",2018,"F","Philosophy, Politics and Economics","Economics",710,"B"
+"205","N386119413208",2018,"M","Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",770,"B"
+"206","N386119414207",2018,"F","Mathematical, Computational and Statistical Sciences","Life Sciences",780,"B"
+"207","N396119413207",2018,"F","Physical Sciences","Arts & Humanities",790,"A"
+"208","N352119402208",2018,"F","Economics","Arts & Humanities",800,"A"
+"209","N324117405245",2017,"M","Philosophy, Politics and Economics","Anthropology",780,"A"
+"210","N397119412207",2018,"F","Life Sciences","Physical Sciences",780,"A"
+"211","N385117401203",2017,"F","Economics","Philosophy, Politics and Economics",750,"A"
+"212","N365117408203",2017,"M","Economics",NA,790,"A"
+"213","N383117408203",2017,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",770,"A"
+"214","N301115424225",2016,"M","Mathematical, Computational and Statistical Sciences","Economics",800,"B"
+"215","N391119424207",2018,"M","Philosophy","Arts & Humanities",690,"B"
+"216","N373119421209",2018,"M","Mathematical, Computational and Statistical Sciences","Economics",740,"A"
+"217","N356119418209",2018,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",780,"A"
+"218","N377119412209",2018,"M","History","Mathematical, Computational and Statistical Sciences",700,"A"
+"219","N372119424208",2018,"M","Economics","Mathematical, Computational and Statistical Sciences",750,"A"
+"220","N376119413209",2018,"F","Undecided","Psychology",780,"A"
+"221","N390117412203",2017,"F","Mathematical, Computational and Statistical Sciences","Physical Sciences",790,"A"
+"222","N389119410207",2018,"M","Economics","Literature",760,"A"
+"223","N360119401208",2018,"M","Life Sciences","Mathematical, Computational and Statistical Sciences",760,"A"
+"224","N342119401208",2018,"M","Mathematical, Computational and Statistical Sciences","Economics",790,"A"
+"225","N372119425207",2018,"M","Philosophy, Politics and Economics","Mathematical, Computational and Statistical Sciences",730,"A"
+"226","N320116401296",2017,"M","Economics","Economics",800,"A"
+"227","N321119408209",2018,"M","Environmental Studies","Economics",800,"A"
+"228","N344119425208",2018,"M","Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",780,"A"
+"229","N322115418225",2016,"F",NA,"Philosophy, Politics and Economics",800,"A"
+"230","N382117410203",2017,"F","Mathematical, Computational and Statistical Sciences","Psychology",680,"A"
+"231","N319119421209",2018,"F","Global Affairs","Philosophy, Politics and Economics",730,"A"
+"232","N380119402207",2018,"F","Anthropology","Literature",790,"A"
+"233","N318119421219",2018,"M","Global Affairs","Philosophy, Politics and Economics",790,"A"
+"234","N326119425208",2018,"M","Economics","Life Sciences",800,"A"
+"235","N393115401224",2016,"F","Global Affairs","Anthropology",660,"A"
+"236","N319115405225",2016,"F","Mathematical, Computational and Statistical Sciences","Economics",800,"A"
+"237","N329117405204",2017,"F","History","Psychology",800,"A"
+"238","N381115410224",2016,"F","Economics","Arts & Humanities",730,"A"
+"239","N310115401240",2016,"F","Life Sciences","Physical Sciences",800,"A"
+"240","N336119423209",2018,"M","Psychology","Economics",730,"A"
+"241","N343117414203",2017,"M","Economics","Philosophy, Politics and Economics",800,"A"
+"242","N358117401203",2017,"M","Philosophy, Politics and Economics","Economics",800,"A"
+"243","N339117405203",2017,"F","Global Affairs","Life Sciences",750,"A"
+"244","N351117418203",2017,"F","Environmental Studies","Urban Studies",780,"A"
+"245","N378119412208",2018,"M","Economics","Global Affairs",800,"A"
+"246","N389115421224",2016,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",800,"A"
+"247","N349111425274",2017,"M","Physical Sciences","Philosophy, Politics and Economics",NA,"A"
+"248","N337119423208",2018,"M","Philosophy","Global Affairs",680,"B"
+"249","N344117413203",2017,"M","Psychology","Mathematical, Computational and Statistical Sciences",800,"B"
+"250","N309117410204",2017,"M","Life Sciences","Physical Sciences",760,"B"
+"251","N381119423209",2018,"F","Global Affairs","Physical Sciences",780,"B"
+"252","N359119413208",2018,"M","Life Sciences","Arts & Humanities",700,"B"
+"253","N306115413225",2016,"F","Mathematical, Computational and Statistical Sciences","Economics",740,"B"
+"254","N380117413203",2017,"F","Environmental Studies","Undecided",720,"C"
+"255","N335119424209",2018,"F","Environmental Studies","Economics",780,"C"
+"256","N354115408225",2016,"F","Global Affairs","Philosophy, Politics and Economics",690,"C"
+"257","N361119425209",2018,"M","Economics","Philosophy, Politics and Economics",700,"C"
+"258","N388117424203",2017,"M","Psychology","Philosophy, Politics and Economics",NA,"C"
+"259","N379119412207",2018,"F","Undecided","Economics",530,NA
+"260","N374117408203",2017,"F","Philosophy, Politics and Economics","Arts & Humanities",600,NA
+"261","N363117412203",2017,"M","Anthropology","Philosophy",620,NA
+"262","N321117423204",2017,"M","Anthropology","Anthropology",620,NA
+"263","N302119412208",2018,"F","Life Sciences","History",620,NA
+"264","N301119413208",2018,"F","Physical Sciences","Environmental Studies",620,NA
+"265","N308116418296",2017,"M","Philosophy, Politics and Economics","Global Affairs",630,NA
+"266","N331117421204",2017,"F","Global Affairs","Arts & Humanities",640,NA
+"267","N342117414204",2017,"F","Life Sciences","Philosophy",650,NA
+"268","N320117424204",2017,"F","Global Affairs","Philosophy, Politics and Economics",670,NA
+"269","N325117413204",2017,"M","Physical Sciences","Arts & Humanities",680,NA
+"270","N352117414203",2017,"F","Physical Sciences","Psychology",680,NA
+"271","N373117410203",2017,"F","Mathematical, Computational and Statistical Sciences","Physical Sciences",680,NA
+"272","N362117413203",2017,"F","Philosophy, Politics and Economics","Global Affairs",680,NA
+"273","N383119421208",2018,"F","Global Affairs","Arts & Humanities",680,NA
+"274","N341119405208",2018,"F","Global Affairs","Philosophy, Politics and Economics",680,NA
+"275","N391117410203",2017,"F","Literature","Physical Sciences",690,NA
+"276","N301117425204",2017,"F","Psychology","Philosophy",690,NA
+"277","N339119414209",2018,"F","Philosophy, Politics and Economics","Urban Studies",690,NA
+"278","N300119424222",2018,"F","Philosophy, Politics and Economics","Global Affairs",690,NA
+"279","N334116421296",2017,"M","Global Affairs","Economics",700,NA
+"280","N372117412203",2017,"M","Undecided","Mathematical, Computational and Statistical Sciences",780,NA
+"281","N348117405203",2017,"F","Life Sciences","Environmental Studies",700,NA
+"282","N323116424296",2017,"M","Philosophy, Politics and Economics","Anthropology",710,NA
+"283","N399117421203",2017,"M","Mathematical, Computational and Statistical Sciences","Literature",710,NA
+"284","N394117401203",2017,"F","Life Sciences","Physical Sciences",710,NA
+"285","N342119402209",2018,"M","Global Affairs","History",710,NA
+"286","N394119414208",2018,"M","Philosophy, Politics and Economics","Economics",710,NA
+"287","N319117408204",2017,"M","Global Affairs","Economics",670,NA
+"288","N347117408203",2017,"F","Economics","Global Affairs",740,NA
+"289","N343117413204",2017,"M","History","Physical Sciences",720,NA
+"290","N385119418207",2018,"F","Psychology","Philosophy, Politics and Economics",720,NA
+"291","N359119412209",2018,"F","Philosophy, Politics and Economics","Philosophy, Politics and Economics",720,NA
+"292","N305119401209",2018,"F","Anthropology","Environmental Studies",720,NA
+"293","N354119423209",2018,"F","Global Affairs","Philosophy, Politics and Economics",720,NA
+"294","N362119425208",2018,"F","Philosophy, Politics and Economics","Economics",720,NA
+"295","N342117418203",2017,"M","Physical Sciences","Economics",730,NA
+"296","N395117402203",2017,"F","Arts & Humanities","Psychology",730,NA
+"297","N353117413203",2017,"M","Economics","Philosophy, Politics and Economics",730,NA
+"298","N310116405296",2017,"M","Economics","Mathematical, Computational and Statistical Sciences",730,NA
+"299","N373119424207",2018,"F","Life Sciences","Physical Sciences",730,NA
+"300","N362119424209",2018,"F","Arts & Humanities","Psychology",730,NA
+"301","N380119402216",2018,"F","Philosophy, Politics and Economics","Arts & Humanities",730,NA
+"302","N329119421208",2018,"F","Psychology","Global Affairs",730,NA
+"303","N334117413204",2017,"F","Psychology","Philosophy, Politics and Economics",740,NA
+"304","N315117414204",2017,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",740,NA
+"305","N306117414204",2017,"M","Global Affairs","Arts & Humanities",740,NA
+"306","N307117413204",2017,"F","Mathematical, Computational and Statistical Sciences","Undecided",740,NA
+"307","N320119410209",2018,"F","Global Affairs","Philosophy, Politics and Economics",740,NA
+"308","N301119412209",2018,"F","Economics","Life Sciences",740,NA
+"309","N316116421296",2018,"F","Philosophy, Politics and Economics","Undecided",740,NA
+"310","N378119410209",2018,"F","Life Sciences","Literature",740,NA
+"311","N398119408208",2018,"M","Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",740,NA
+"312","N368119412209",2018,"F","Life Sciences","Undecided",740,NA
+"313","N320119412208",2018,"M","Undecided","Philosophy, Politics and Economics",740,NA
+"314","N370119402208",2018,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",740,NA
+"315","N322117421204",2017,"F","Mathematical, Computational and Statistical Sciences","Economics",750,NA
+"316","N333116413206",2017,"M","Economics","Environmental Studies",750,NA
+"317","N332117412243",2017,"M","Environmental Studies","Physical Sciences",720,NA
+"318","N329116413295",2017,"F","Life Sciences","Life Sciences",800,NA
+"319","N387117425203",2017,"M","Philosophy, Politics and Economics","Philosophy, Politics and Economics",760,NA
+"320","N307119425209",2018,"M","Undecided","Undecided",760,NA
+"321","N361119402208",2018,"M","History","Philosophy, Politics and Economics",760,NA
+"322","N332119405208",2018,"F","Philosophy, Politics and Economics","Global Affairs",760,NA
+"323","N370117414203",2017,"F","Psychology","Philosophy, Politics and Economics",770,NA
+"324","N354117412203",2017,"F","Philosophy, Politics and Economics","Economics",770,NA
+"325","N377117402203",2017,"M","Philosophy, Politics and Economics","Economics",770,NA
+"326","N304117414215",2017,"M","Economics","Philosophy, Politics and Economics",770,NA
+"327","N399119405208",2018,"M","Mathematical, Computational and Statistical Sciences","Undecided",770,NA
+"328","N321116402296",2017,"M","Physical Sciences","Physical Sciences",780,NA
+"329","N313117421204",2017,"F","Psychology","Urban Studies",780,NA
+"330","N381117412203",2017,"M","Economics","Global Affairs",780,NA
+"331","N328117408204",2017,"F","Anthropology","Anthropology",780,NA
+"332","N377119414207",2018,"M","Global Affairs","Life Sciences",780,NA
+"333","N360119402209",2018,"M","Undecided","Economics",780,NA
+"334","N331119408208",2018,"F","Philosophy, Politics and Economics","Global Affairs",780,NA
+"335","N333119402209",2018,"F","Psychology","History",780,NA
+"336","N344117412204",2017,"F","Urban Studies","Philosophy, Politics and Economics",800,NA
+"337","N302116401296",2017,"M","Global Affairs","Arts & Humanities",790,NA
+"338","N384117405203",2017,"F","Philosophy, Politics and Economics","Life Sciences",800,NA
+"339","N319119405212",2018,"M","Environmental Studies","Philosophy, Politics and Economics",790,NA
+"340","N371119425208",2018,"M","Economics","Philosophy, Politics and Economics",790,NA
+"341","N317119423219",2018,"F","Life Sciences","Arts & Humanities",790,NA
+"342","N321119410208",2018,"F","Mathematical, Computational and Statistical Sciences","Physical Sciences",790,NA
+"343","N327117410204",2017,"F","Mathematical, Computational and Statistical Sciences","Economics",800,NA
+"344","N371117413203",2017,"F","Psychology","Arts & Humanities",800,NA
+"345","N379117424203",2017,"F","Philosophy, Politics and Economics",NA,800,NA
+"346","N312117423204",2017,"M","Physical Sciences","Mathematical, Computational and Statistical Sciences",800,NA
+"347","N318116414296",2017,"F","Physical Sciences","Mathematical, Computational and Statistical Sciences",800,NA
+"348","N364117410203",2017,"M","Mathematical, Computational and Statistical Sciences","Economics",800,NA
+"349","N330116402296",2017,"F","Mathematical, Computational and Statistical Sciences","Undecided",790,NA
+"350","N325119412212",2018,"M","Literature","Anthropology",800,NA
+"351","N366119418208",2018,"M","Life Sciences","Life Sciences",800,NA
+"352","N309119424208",2018,"F","Philosophy, Politics and Economics","Global Affairs",800,NA
+"353","N348119414209",2018,"F","Anthropology","Global Affairs",800,NA
+"354","N330116410247",2018,"F","Physical Sciences","Physical Sciences",800,NA
+"355","N325119425209",2018,"F","Life Sciences","Philosophy, Politics and Economics",800,NA
+"356","N380119425208",2018,"M","Economics","Philosophy, Politics and Economics",800,NA
+"357","N301116405220",2016,"F","Economics","Environmental Studies",610,NA
+"358","N368119413208",2018,"F","Philosophy, Politics and Economics","Global Affairs",640,NA
+"359","N353115410225",2016,"F","Mathematical, Computational and Statistical Sciences","Global Affairs",660,NA
+"360","N310119412209",2018,"F","Global Affairs","History",660,NA
+"361","N342115414224",2016,"F","Philosophy, Politics and Economics","Arts & Humanities",680,NA
+"362","N323117418204",2017,"M","Physical Sciences","Philosophy",680,NA
+"363","N367117401203",2017,"F","Undecided","Physical Sciences",680,NA
+"364","N328116413296",2017,"M","Anthropology","Arts & Humanities",680,NA
+"365","N343119402208",2018,"F","Philosophy, Politics and Economics","Global Affairs",680,NA
+"366","N346119421209",2018,"M","Arts & Humanities","Literature",680,NA
+"367","N336115408225",2016,"M","Economics","Philosophy",780,NA
+"368","N343115412225",2016,"F","Life Sciences","Global Affairs",760,NA
+"369","N330119408209",2018,"F","Global Affairs","Philosophy, Politics and Economics",700,NA
+"370","N357119418208",2018,"M","Philosophy, Politics and Economics","Global Affairs",700,NA
+"371","N347119418209",2018,"M","Urban Studies","History",700,NA
+"372","N345119423209",2018,"M","Physical Sciences","Undecided",710,NA
+"373","N376119414208",2018,"F","Global Affairs","Anthropology",710,NA
+"374","N300119413209",2018,"M","Economics","Philosophy, Politics and Economics",710,NA
+"375","N350115418224",2016,"F","Philosophy, Politics and Economics","Economics",720,NA
+"376","N374115405224",2016,"F","Undecided","Undecided",720,NA
+"377","N378116402288",2017,"M","History","Philosophy, Politics and Economics",720,NA
+"378","N340119405209",2018,"M","Economics","Undecided",720,NA
+"379","N313115418225",2016,"F","Environmental Studies","Philosophy, Politics and Economics",740,NA
+"380","N322116425296",2017,"F","Economics","Environmental Studies",740,NA
+"381","N321116401295",2017,"M","Economics","Environmental Studies",740,NA
+"382","N319116413296",2017,"M","Philosophy, Politics and Economics","Global Affairs",740,NA
+"383","N303117425220",2017,"F","History","Life Sciences",740,NA
+"384","N327119423209",2018,"F","Life Sciences",NA,740,NA
+"385","N365119418209",2018,"F","Arts & Humanities","Urban Studies",740,NA
+"386","N355117410203",2017,"F","Global Affairs","Philosophy, Politics and Economics",760,NA
+"387","N345117412203",2017,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",740,NA
+"388","N339117401204",2017,"F","Philosophy, Politics and Economics","Economics",760,NA
+"389","N349119414208",2018,"M","Physical Sciences","Mathematical, Computational and Statistical Sciences",760,NA
+"390","N319119423208",2018,"F","Life Sciences","Physical Sciences",760,NA
+"391","N367119414208",2018,"M","Urban Studies","Economics",760,NA
+"392","N329115401225",2016,"M","Philosophy, Politics and Economics","Philosophy",780,NA
+"393","N339115402225",2016,"F","Life Sciences","Physical Sciences",770,NA
+"394","N355115405225",2016,"M","Environmental Studies","Economics",780,NA
+"395","N339115401224",2016,"F","Arts & Humanities","Life Sciences",760,NA
+"396","N386117402203",2017,"M","Environmental Studies","Physical Sciences",780,NA
+"397","N360117418203",2017,"M","Philosophy, Politics and Economics","Economics",780,NA
+"398","N355117401215",2017,"M","Arts & Humanities","Environmental Studies",780,NA
+"399","N350117421203",2017,"F","Philosophy, Politics and Economics","Psychology",780,NA
+"400","N397117424203",2017,"F","Undecided","Economics",780,NA
+"401","N313119408208",2018,"F","Economics","Undecided",780,NA
+"402","N314119405208",2018,"F","Mathematical, Computational and Statistical Sciences","Philosophy",780,NA
+"403","N327119424208",2018,"F","Urban Studies","Philosophy, Politics and Economics",780,NA
+"404","N331119405209",2018,"M","Global Affairs","Philosophy, Politics and Economics",780,NA
+"405","N317115410225",2016,"F","Arts & Humanities","Literature",800,NA
+"406","N372115410224",2016,"M","Mathematical, Computational and Statistical Sciences","Psychology",780,NA
+"407","N345117410204",2017,"M","Environmental Studies","Economics",800,NA
+"408","N308117412204",2017,"M","Philosophy, Politics and Economics","Mathematical, Computational and Statistical Sciences",800,NA
+"409","N324117414204",2017,"F","Psychology","Physical Sciences",800,NA
+"410","N305117418204",2017,"F","Psychology","Global Affairs",800,NA
+"411","N369119412208",2018,"F","Environmental Studies","Philosophy, Politics and Economics",800,NA
+"412","N344115410225",2016,"F","Environmental Studies","Global Affairs",760,NA
+"413","N304116413208",2016,"F","Literature","Environmental Studies",790,NA
+"414","N361115413224",2016,"M","Economics",NA,780,NA
+"415","N302115423225",2016,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"416","N340115418225",2016,"F","Global Affairs","Urban Studies",750,NA
+"417","N304115418225",2016,"M","Economics","Global Affairs",NA,NA
+"418","N376115424262",2016,"M","History","Literature",NA,NA
+"419","N356115401225",2016,"M","Physical Sciences","Anthropology",750,NA
+"420","N307116408208",2016,"F","Global Affairs","History",NA,NA
+"421","N396116421207",2016,"M","Arts & Humanities","Philosophy, Politics and Economics",780,NA
+"422","N324116421212",2016,"F","Life Sciences","Arts & Humanities",NA,NA
+"423","N347115405224",2016,"M","Arts & Humanities","Environmental Studies",740,NA
+"424","N314115414225",2016,"F","Psychology","Urban Studies",690,NA
+"425","N308115410225",2016,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",780,NA
+"426","N351115412262",2016,"M","Psychology","Philosophy, Politics and Economics",NA,NA
+"427","N367115402224",2016,"F","Philosophy, Politics and Economics","Global Affairs",790,NA
+"428","N380115412224",2016,"M","Psychology","Arts & Humanities",NA,NA
+"429","N345115410224",2016,"F","Literature","Philosophy, Politics and Economics",760,NA
+"430","N345115408225",2016,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"431","N356115405224",2016,"M","Physical Sciences",NA,770,NA
+"432","N346115401262",2016,"F","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"433","N362115412224",2016,"M","Anthropology","Psychology",NA,NA
+"434","N371115412224",2016,"M","Undecided","Philosophy, Politics and Economics",800,NA
+"435","N348115425262",2016,"M","Arts & Humanities","Philosophy, Politics and Economics",NA,NA
+"436","N397116418207",2016,"M","Economics","Philosophy, Politics and Economics",NA,NA
+"437","N310115424225",2016,"M","Undecided","Undecided",790,NA
+"438","N365115405224",2016,"F","Economics","Global Affairs",760,NA
+"439","N338115401225",2016,"F","History",NA,710,NA
+"440","N383115405224",2016,"F","Global Affairs","Philosophy, Politics and Economics",730,NA
+"441","N337116405215",2016,"M","Physical Sciences","Mathematical, Computational and Statistical Sciences",NA,NA
+"442","N306116410208",2016,"F","Literature","Psychology",NA,NA
+"443","N330115421225",2016,"F","Physical Sciences","Physical Sciences",790,NA
+"444","N338115405224",2016,"F","Philosophy, Politics and Economics","Global Affairs",780,NA
+"445","N347115402262",2016,"F","Philosophy","Philosophy, Politics and Economics",NA,NA
+"446","N344115408262",2016,"F","Urban Studies","Undecided",NA,NA
+"447","N342115412262",2016,"M","Mathematical, Computational and Statistical Sciences","Psychology",NA,NA
+"448","N370115413224",2016,"M","Physical Sciences","Mathematical, Computational and Statistical Sciences",800,NA
+"449","N375115425262",2016,"M","Philosophy, Politics and Economics","Economics",NA,NA
+"450","N399116413207",2016,"F","Global Affairs","Arts & Humanities",NA,NA
+"451","N359115423262",2016,"M","Literature","Philosophy, Politics and Economics",NA,NA
+"452","N397115423224",2016,"F","Psychology","Life Sciences",780,NA
+"453","N337116402217",2016,"F","Philosophy","Psychology",NA,NA
+"454","N324115413225",2016,"M","Life Sciences","Economics",760,NA
+"455","N325116418212",2016,"F","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"456","N358115424262",2016,"M","Economics","Philosophy",NA,NA
+"457","N366115401224",2016,"F","Arts & Humanities",NA,800,NA
+"458","N383115402262",2016,"M","Economics","Environmental Studies",NA,NA
+"459","N303116414208",2016,"F","Arts & Humanities","Undecided",NA,NA
+"460","N339116402215",2016,"F","Arts & Humanities","Physical Sciences",780,NA
+"461","N389115414262",2016,"M","Physical Sciences","Philosophy",NA,NA
+"462","N356115402262",2016,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"463","N377115423262",2016,"F","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"464","N364115408224",2016,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",800,NA
+"465","N312116414208",2016,"M","Philosophy, Politics and Economics","Psychology",NA,NA
+"466","N399115418224",2016,"F","Life Sciences","Physical Sciences",760,NA
+"467","N395115425224",2016,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",770,NA
+"468","N361115410262",2016,"M","Psychology","Anthropology",NA,NA
+"469","N390115410224",2016,"M","Philosophy","Global Affairs",NA,NA
+"470","N388115423224",2016,"F","Life Sciences","Mathematical, Computational and Statistical Sciences",800,NA
+"471","N333115408255",2016,"M","Global Affairs","Economics",NA,NA
+"472","N384115401224",2016,"F","Global Affairs",NA,720,NA
+"473","N398115421224",2016,"M","Arts & Humanities","History",NA,NA
+"474","N300116408220",2016,"F","Global Affairs","History",NA,NA
+"475","N346115408224",2016,"F","Global Affairs","Anthropology",NA,NA
+"476","N305115413244",2016,"M","Global Affairs","Undecided",NA,NA
+"477","N355115401262",2016,"M","Literature","Arts & Humanities",NA,NA
+"478","N309116401208",2016,"M","Environmental Studies","Philosophy, Politics and Economics",770,NA
+"479","N343115413224",2016,"F","Literature","Physical Sciences",790,NA
+"480","N394116424207",2016,"F","Psychology","Philosophy, Politics and Economics",NA,NA
+"481","N352115412225",2016,"M","Economics","Physical Sciences",NA,NA
+"482","N388115418262",2016,"F","Psychology","Economics",760,NA
+"483","N360115414224",2016,"M","Philosophy, Politics and Economics","Economics",790,NA
+"484","N353115408262",2016,"M","Psychology","Physical Sciences",NA,NA
+"485","N320115423225",2016,"F","Literature","Anthropology",780,NA
+"486","N311115423225",2016,"F","Philosophy, Politics and Economics","Global Affairs",760,NA
+"487","N337115405225",2016,"F","Global Affairs","Anthropology",670,NA
+"488","N386115423262",2016,"M","Literature","Arts & Humanities",NA,NA
+"489","N398116414207",2016,"M","History","Psychology",NA,NA
+"490","N394115402224",2016,"M","Environmental Studies","Undecided",NA,NA
+"491","N315115413225",2016,"M","Economics","Undecided",NA,NA
+"492","N335116405217",2016,"M","Environmental Studies","Life Sciences",660,NA
+"493","N341115413262",2016,"M","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"494","N336116408215",2016,"F","Economics","Anthropology",NA,NA
+"495","N353115412224",2016,"M","Philosophy, Politics and Economics","Arts & Humanities",800,NA
+"496","N343116412215",2016,"F","Literature","Psychology",790,NA
+"497","N368115423262",2016,"M","Psychology","Philosophy, Politics and Economics",NA,NA
+"498","N348115402225",2016,"F","Economics","Global Affairs",NA,NA
+"499","N300115425225",2016,"F","Philosophy, Politics and Economics","Arts & Humanities",670,NA
+"500","N378115424224",2016,"F","Global Affairs","Philosophy, Politics and Economics",800,NA
+"501","N357115401224",2016,"F","Life Sciences","Economics",720,NA
+"502","N396115424224",2016,"F","Literature","Economics",770,NA
+"503","N327115408225",2016,"F","Physical Sciences","Life Sciences",NA,NA
+"504","N342116413215",2016,"F","Environmental Studies","Urban Studies",NA,NA
+"505","N390115405262",2016,"M","Philosophy, Politics and Economics","Economics",NA,NA
+"506","N377116425223",2016,"F","Urban Studies","Anthropology",NA,NA
+"507","N355115408224",2016,"F","Mathematical, Computational and Statistical Sciences","Philosophy",780,NA
+"508","N337115401262",2016,"M","Literature","Philosophy",NA,NA
+"509","N341115414225",2016,"M","Philosophy, Politics and Economics","Philosophy",NA,NA
+"510","N336115405262",2016,"M","Psychology","Literature",NA,NA
+"511","N340115421224",2016,"M","Philosophy, Politics and Economics",NA,NA,NA
+"512","N340116418215",2016,"F","Arts & Humanities","Psychology",NA,NA
+"513","N373115408224",2016,"F","Physical Sciences","Arts & Humanities",760,NA
+"514","N308116405208",2016,"M","Urban Studies","Anthropology",780,NA
+"515","N340115414262",2016,"M","Literature","Arts & Humanities",NA,NA
+"516","N368115425224",2016,"M","Global Affairs","Economics",710,NA
+"517","N303115421225",2016,"M","Economics","Global Affairs",730,NA
+"518","N376115402224",2016,"M","Anthropology","Urban Studies",800,NA
+"519","N337115408224",2016,"M","Economics","Mathematical, Computational and Statistical Sciences",790,NA
+"520","N346115405225",2016,"M","Psychology","Undecided",NA,NA
+"521","N375115401224",2016,"M","Physical Sciences","Global Affairs",800,NA
+"522","N369115421262",2016,"F","Philosophy, Politics and Economics","Mathematical, Computational and Statistical Sciences",800,NA
+"523","N370115410262",2016,"M","Philosophy, Politics and Economics","Literature",NA,NA
+"524","N377115425224",2016,"M","Physical Sciences","Global Affairs",800,NA
+"525","N351115413225",2016,"F","Mathematical, Computational and Statistical Sciences",NA,760,NA
+"526","N312115421225",2016,"F","Psychology","Literature",NA,NA
+"527","N393116425207",2016,"M","Arts & Humanities","Anthropology",NA,NA
+"528","N354115410224",2016,"M","Philosophy, Politics and Economics","Economics",NA,NA
+"529","N350115413262",2016,"M","Literature","Anthropology",NA,NA
+"530","N382115408224",2016,"F","History","Physical Sciences",NA,NA
+"531","N379115418262",2016,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"532","N364115401262",2016,"M","Environmental Studies","Global Affairs",NA,NA
+"533","N348115401224",2016,"M","Economics","Physical Sciences",730,NA
+"534","N344115412224",2016,"M","Physical Sciences","Philosophy, Politics and Economics",780,NA
+"535","N309115413240",2016,"F","Anthropology","Undecided",NA,NA
+"536","N305116412208",2016,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"537","N351113418261",2016,"M","Anthropology","Mathematical, Computational and Statistical Sciences",800,NA
+"538","N332115414225",2016,"F","Literature","Life Sciences",800,NA
+"539","N325115412225",2016,"M","Psychology",NA,790,NA
+"540","N313116413208",2016,"M","Economics","Philosophy, Politics and Economics",NA,NA
+"541","N335115410225",2016,"M","Philosophy, Politics and Economics","Philosophy",780,NA
+"542","N369115424224",2016,"F","Physical Sciences","Environmental Studies",760,NA
+"543","N312115425240",2016,"M","Environmental Studies","Physical Sciences",NA,NA
+"544","N338113408261",2016,"F","Psychology","Global Affairs",790,NA
+"545","N342115413225",2016,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"546","N392115405224",2016,"F","Economics","Undecided",NA,NA
+"547","N352115413224",2016,"F","Global Affairs","Psychology",800,NA
+"548","N385115402224",2016,"F","Anthropology","Arts & Humanities",NA,NA
+"549","N310116421208",2016,"F","Anthropology","Literature",760,NA
+"550","N350115414225",2016,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",780,NA
+"551","N347115401225",2016,"M","Psychology","Undecided",NA,NA
+"552","N359115425224",2016,"F","Philosophy, Politics and Economics","Economics",800,NA
+"553","N391115408224",2016,"F","Economics","Mathematical, Computational and Statistical Sciences",NA,NA
+"554","N341116414215",2016,"F","Psychology","Anthropology",NA,NA
+"555","N349115425225",2016,"F","Life Sciences","Philosophy, Politics and Economics",730,NA
+"556","N338116401215",2016,"F","Philosophy, Politics and Economics","Literature",NA,NA
+"557","N349115402224",2016,"F","Economics","Literature",750,NA
+"558","N356110408273",2016,"M","Physical Sciences","Environmental Studies",NA,NA
+"559","N334115412225",2016,"F","Arts & Humanities","Arts & Humanities",650,NA
+"560","N301116421208",2016,"M","Economics","Mathematical, Computational and Statistical Sciences",NA,NA
+"561","N362115408262",2016,"M","Literature","Undecided",800,NA
+"562","N372117405215",2017,"M","Global Affairs","History",NA,NA
+"563","N398117418214",2017,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"564","N376117401203",2017,"F","Life Sciences","Environmental Studies",640,NA
+"565","N338117408203",2017,"M","Economics","Mathematical, Computational and Statistical Sciences",760,NA
+"566","N307116421296",2017,"F","Psychology","Philosophy, Politics and Economics",NA,NA
+"567","N307117410215",2017,"M","Literature","Undecided",NA,NA
+"568","N397116401295",2017,"F","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"569","N361117410215",2017,"M","Arts & Humanities","Literature",NA,NA
+"570","N358117424215",2017,"M","Physical Sciences","Global Affairs",NA,NA
+"571","N335117405243",2017,"F","Anthropology","Life Sciences",NA,NA
+"572","N310117425204",2017,"F","Physical Sciences",NA,780,NA
+"573","N384117425215",2017,"M","Arts & Humanities","Global Affairs",NA,NA
+"574","N327116418295",2017,"F","Undecided","Undecided",NA,NA
+"575","N389117423203",2017,"F","Mathematical, Computational and Statistical Sciences","Life Sciences",770,NA
+"576","N309116414296",2017,"M","Global Affairs","History",NA,NA
+"577","N337117408204",2017,"M","Philosophy, Politics and Economics","Urban Studies",760,NA
+"578","N324116424295",2017,"M","Psychology","Arts & Humanities",NA,NA
+"579","N315116423296",2017,"F","Urban Studies","Psychology",NA,NA
+"580","N323116425295",2017,"M","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"581","N303116402296",2017,"M","Undecided","Undecided",NA,NA
+"582","N338116402207",2017,"F","Psychology","Arts & Humanities",NA,NA
+"583","N346117401215",2017,"M","Philosophy, Politics and Economics","Psychology",NA,NA
+"584","N374117402215",2017,"F","Literature","Philosophy",NA,NA
+"585","N317116424248",2017,"M","Psychology","History",NA,NA
+"586","N398116402295",2017,"F","Arts & Humanities","Literature",NA,NA
+"587","N399117414214",2017,"M","Philosophy, Politics and Economics","Economics",NA,NA
+"588","N329116412296",2017,"F","Anthropology","Anthropology",NA,NA
+"589","N326116418296",2017,"F","Psychology","Economics",NA,NA
+"590","N371117408215",2017,"M","Arts & Humanities","Philosophy, Politics and Economics",800,NA
+"591","N340116425296",2017,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",800,NA
+"592","N300116408296",2017,"F","Arts & Humanities","Anthropology",NA,NA
+"593","N328117424245",2017,"M","Arts & Humanities","Mathematical, Computational and Statistical Sciences",NA,NA
+"594","N325116421296",2017,"M","Economics","Mathematical, Computational and Statistical Sciences",800,NA
+"595","N343112414217",2017,"M","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"596","N335116418296",2017,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",NA,NA
+"597","N305117413215",2017,"F","Philosophy","Undecided",NA,NA
+"598","N350117413215",2017,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"599","N337117410203",2017,"M","Economics","Psychology",720,NA
+"600","N326117412204",2017,"M","Philosophy, Politics and Economics","Economics",710,NA
+"601","N323117408245",2017,"M","Economics",NA,800,NA
+"602","N377117423215",2017,"M","Philosophy","Psychology",NA,NA
+"603","N359117423215",2017,"M","Literature","Philosophy, Politics and Economics",NA,NA
+"604","N351117412215",2017,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",NA,NA
+"605","N339116410296",2017,"F","Philosophy","Literature",NA,NA
+"606","N340117410209",2017,"M","Global Affairs","Economics",NA,NA
+"607","N336116414296",2017,"M",NA,"Environmental Studies",800,NA
+"608","N304116425296",2017,"F","Arts & Humanities","Undecided",NA,NA
+"609","N305116424296",2017,"M","Economics","Global Affairs",790,NA
+"610","N399116425295",2017,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"611","N313116425296",2017,"F","Economics","Mathematical, Computational and Statistical Sciences",NA,NA
+"612","N397117421214",2017,"M","Physical Sciences","Anthropology",NA,NA
+"613","N328116414295",2017,"M","History","Environmental Studies",NA,NA
+"614","N324116423296",2017,"F","Anthropology","Undecided",690,NA
+"615","N356117408203",2017,"F","Philosophy, Politics and Economics","Psychology",790,NA
+"616","N332116424296",2017,"M","Economics","Philosophy, Politics and Economics",NA,NA
+"617","N325116423295",2017,"F","Global Affairs","History",NA,NA
+"618","N380117408215",2017,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"619","N302117424204",2017,"M","Economics","Physical Sciences",800,NA
+"620","N312116402296",2017,"F","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"621","N338116412296",2017,"M","Literature","Arts & Humanities",NA,NA
+"622","N317116418296",2017,"M","Economics","Mathematical, Computational and Statistical Sciences",NA,NA
+"623","N396117423214",2017,"M","Literature","Arts & Humanities",NA,NA
+"624","N363117405215",2017,"M","Philosophy, Politics and Economics","Urban Studies",NA,NA
+"625","N337116413296",2017,"F","Arts & Humanities","History",NA,NA
+"626","N346117410203",2017,"F","Global Affairs","Philosophy, Politics and Economics",800,NA
+"627","N341116424296",2017,"F","Undecided","Arts & Humanities",NA,NA
+"628","N382117401215",2017,"M","History","Literature",NA,NA
+"629","N331116425296",2017,"F","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"630","N378117425203",2017,"F","Philosophy, Politics and Economics","Economics",740,NA
+"631","N361117414203",2017,"M","Philosophy, Politics and Economics","Mathematical, Computational and Statistical Sciences",790,NA
+"632","N322116402295",2017,"F","Anthropology","Global Affairs",NA,NA
+"633","N368117402203",2017,"F","Philosophy, Politics and Economics","Arts & Humanities",730,NA
+"634","N328119421209",2018,"F","Literature","Anthropology",NA,NA
+"635","N334119402208",2018,"M","Global Affairs","Philosophy, Politics and Economics",630,NA
+"636","N332119414212",2018,"M","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"637","N345119424208",2018,"F","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"638","N331119418212",2018,"M","Psychology","Philosophy, Politics and Economics",NA,NA
+"639","N392119423207",2018,"F","Urban Studies","Psychology",NA,NA
+"640","N368118423250",2018,"F","Mathematical, Computational and Statistical Sciences","Physical Sciences",NA,NA
+"641","N311119410209",2018,"M","Philosophy, Politics and Economics","Global Affairs",690,NA
+"642","N381119424208",2018,"F","Literature","Arts & Humanities",NA,NA
+"643","N382119421209",2018,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"644","N321119421212",2018,"M","Urban Studies","Arts & Humanities",NA,NA
+"645","N324119413212",2018,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"646","N326119410212",2018,"M","Arts & Humanities","Economics",NA,NA
+"647","N304119405209",2018,"F","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"648","N338119418209",2018,"F","Global Affairs","Environmental Studies",NA,NA
+"649","N363119423209",2018,"M","Economics","Philosophy, Politics and Economics",NA,NA
+"650","N308119425208",2018,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"651","N318119424208",2018,"M","Philosophy, Politics and Economics","History",NA,NA
+"652","N357119414209",2018,"M","Philosophy","Arts & Humanities",NA,NA
+"653","N323119414212",2018,"M","Philosophy, Politics and Economics","Literature",NA,NA
+"654","N333119401208",2018,"F","Psychology","Undecided",NA,NA
+"655","N328119423208",2018,"F","Environmental Studies","Arts & Humanities",NA,NA
+"656","N320119423212",2018,"M","Arts & Humanities","Undecided",NA,NA
+"657","N318119423209",2018,"M","Anthropology","Philosophy, Politics and Economics",NA,NA
+"658","N371119424209",2018,"F","Psychology","Arts & Humanities",NA,NA
+"659","N322119418212",2018,"M","Philosophy, Politics and Economics","Anthropology",NA,NA
+"660","N353119424209",2018,"F","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",NA,NA
+"661","N315119401208",2018,"M","Literature","Philosophy, Politics and Economics",NA,NA
+"662","N321119405219",2018,"F","Physical Sciences","Physical Sciences",NA,NA
+"663","N327119408212",2018,"M","Arts & Humanities","Economics",NA,NA
+"664","N363119424208",2018,"F","Literature","Anthropology",NA,NA
+"665","N316119425209",2018,"F","Anthropology","Arts & Humanities",NA,NA
+"666","N364119421209",2018,"F","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"667","N395119414207",2018,"M","Arts & Humanities","Life Sciences",NA,NA
+"668","N330119421212",2018,"M","Arts & Humanities","Psychology",NA,NA
+"669","N376119418216",2018,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"670","N390119424208",2018,"M","Psychology","Philosophy",NA,NA
+"671","N393119421207",2018,"M","Psychology","Philosophy",NA,NA
+"672","N305119405208",2018,"F","Psychology","Arts & Humanities",NA,NA
+"673","N300119414208",2018,"F","Anthropology","Life Sciences",NA,NA
+"674","N320119408219",2018,"F","Literature","Literature",NA,NA
+"675","N312119408209",2018,"F","Environmental Studies","Philosophy, Politics and Economics",NA,NA
+"676","N365119421208",2018,"M","Environmental Studies","Life Sciences",NA,NA
+"677","N376119418207",2018,"F","Physical Sciences","Undecided",NA,NA
+"678","N321118418223",2018,"M","Philosophy","Undecided",NA,NA
+"679","N398119410207",2018,"M","Philosophy, Politics and Economics","Undecided",NA,NA
+"680","N333119413212",2018,"M","Philosophy, Politics and Economics","Undecided",NA,NA
+"681","N303119408209",2018,"F","Anthropology","Urban Studies",NA,NA
+"682","N306119401208",2018,"F","Psychology","Urban Studies",NA,NA
+"683","N377119414216",2018,"M","Literature","Life Sciences",NA,NA
+"684","N328119405212",2018,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"685","N332119401209",2018,"F","Philosophy","Literature",NA,NA
+"686","N334119412212",2018,"M","Mathematical, Computational and Statistical Sciences","Psychology",800,NA
+"687","N329119401212",2018,"F","Environmental Studies","Economics",NA,NA
+"688","N337119421209",2018,"M","Life Sciences",NA,720,NA
+"689","N379119408209",2018,"F","Undecided","Undecided",NA,NA
+"690","N384119421207",2018,"F","Arts & Humanities","Literature",NA,NA

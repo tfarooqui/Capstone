@@ -1,0 +1,245 @@
+,PIN,Sex,Region,Year,Major,Grade,HSG,IndGrd2,AC1,AC2,SAT,IndGrd
+0,N307120401278,M,Singapore,ay1920,Undeclared,83.48404515,4,85.3367881675,Anthropology,Arts & Humanities,780,0.0
+1,N327120424297,F,Singapore,ay1920,Undeclared,86.76112875,4,86.7516268341667,Anthropology,Undecided,750,1.0
+2,N345120402277,M,Southeast Asia,ay1920,Undeclared,83.70114676,4,86.095714623125,Anthropology,"Mathematical, Computational and Statistical Sciences",780,0.0
+3,N356120424277,F,Singapore,ay1920,Undeclared,94.09145977,4,92.3739130983333,Anthropology,Global Affairs,790,1.0
+4,N392120413260,F,Singapore,ay1920,Undeclared,83.5806518,4,79.2534967458333,Anthropology,Environmental Studies,770,0.0
+5,N397120413277,F,Singapore,ay1920,Undeclared,86.74281909,2,85.037143515,Anthropology,Psychology,740,0.0
+6,N309120424297,M,Singapore,ay1920,Undeclared,88.55547824,2,91.9815878958333,Anthropology,Undecided,770,1.0
+7,N311120413278,M,Southeast Asia,ay1920,Undeclared,74.66162491,4,78.5966025775,Anthropology,Life Sciences,800,0.0
+8,N317120425297,F,North America,ay1920,Undeclared,84.92744995,4,82.8618742808333,Anthropology,Psychology,740,0.0
+9,N327120402277,F,Singapore,ay1920,Undeclared,83.39456103,4,84.3897741883333,Anthropology,"Philosophy, Politics and Economics",790,0.0
+10,N370120408276,F,Singapore,ay1920,Undeclared,77.48455799999999,4,74.278488385,Anthropology,Global Affairs,800,0.0
+11,N371120402296,F,Southeast Asia,ay1920,Undeclared,83.91629777,3,79.7009809883333,Anthropology,Arts & Humanities,690,0.0
+12,N375120423277,F,Singapore,ay1920,Undeclared,89.18345306,4,88.2043401841667,Anthropology,Arts & Humanities,800,1.0
+13,N388120414276,M,Singapore,ay1920,Undeclared,75.66825039,4,69.79115768,Anthropology,Literature,690,0.0
+14,N393120421296,F,Singapore,ay1920,Undeclared,77.03893805,2,73.64082740833331,Anthropology,Global Affairs,790,0.0
+15,N396120418276,F,Singapore,ay1920,Undeclared,83.70220925,3,80.6391725775,Anthropology,"Philosophy, Politics and Economics",660,0.0
+16,N352120401296,F,Singapore,ay1920,Undeclared,81.62931242,4,80.1463575175,Arts & Humanities,Anthropology,680,0.0
+17,N373120402276,F,North America,ay1920,Undeclared,81.97356431,4,83.3672677283333,Arts & Humanities,Literature,730,0.0
+18,N381120425296,F,Singapore,ay1920,Undeclared,84.17319801,4,85.70824577,Arts & Humanities,Literature,800,0.0
+19,N397121412210,F,Singapore,ay1920,Undeclared,83.41797829,4,81.2629581941667,Arts & Humanities,Psychology,780,0.0
+20,N300120418278,M,East Asia,ay1920,Undeclared,79.25023485,3,73.448778805,Arts & Humanities,"Philosophy, Politics and Economics",730,0.0
+21,N316120405277,F,Southeast Asia,ay1920,Undeclared,76.05786871,3,70.434982115,Arts & Humanities,Arts & Humanities,760,0.0
+22,N319120423297,F,Singapore,ay1920,Undeclared,62.73071875,3,61.23556656,Arts & Humanities,Literature,740,0.0
+23,N376120423276,M,Other,ay1920,Undeclared,81.41110576,2,80.0666413575,Arts & Humanities,Literature,720,0.0
+24,N330120413277,F,East Asia,ay1920,Undeclared,84.48163272,4,85.337964775,Arts & Humanities,Economics,800,0.0
+25,N354120402277,F,Southeast Asia,ay1920,Undeclared,79.00852352,4,88.1079695291667,Arts & Humanities,Arts & Humanities,790,1.0
+26,N360120408277,F,Singapore,ay1920,Undeclared,77.41563459,4,77.101101565,Arts & Humanities,"Philosophy, Politics and Economics",750,0.0
+27,N364120425277,F,Singapore,ay1920,Undeclared,69.74843984,3,62.587424644166695,Arts & Humanities,Anthropology,670,0.0
+28,N367120418296,F,North America,ay1920,Undeclared,80.78018321,2,76.9794112166667,Arts & Humanities,"Philosophy, Politics and Economics",780,0.0
+29,N374120424277,F,Europe,ay1920,Undeclared,77.70023505,3,77.47603343,Arts & Humanities,Undecided,700,0.0
+30,N394120423276,F,Singapore,ay1920,Undeclared,70.99566707,4,72.2923721716667,Arts & Humanities,"Philosophy, Politics and Economics",700,0.0
+31,N349120418296,F,Singapore,ay1920,Undeclared,81.45801509,4,78.5021560608333,Economics,Global Affairs,730,0.0
+32,N391120424296,F,Singapore,ay1920,Undeclared,79.03090775,4,73.3161545016667,Economics,Anthropology,770,0.0
+33,N394120418296,M,Singapore,ay1920,Undeclared,86.05745982,4,86.7331897933333,Economics,"Mathematical, Computational and Statistical Sciences",680,1.0
+34,N326120401277,M,Singapore,ay1920,Undeclared,83.63825652,3,83.0559131483333,Economics,"Mathematical, Computational and Statistical Sciences",640,0.0
+35,N338120424277,F,South Asia,ay1920,Undeclared,86.19781614,3,85.5620247083333,Economics,"Philosophy, Politics and Economics",790,0.0
+36,N385120423276,M,South Asia,ay1920,Undeclared,91.96591071,3,92.7159241408334,Economics,"Philosophy, Politics and Economics",750,1.0
+37,N312120412278,M,Southeast Asia,ay1920,Undeclared,84.67838142,2,85.5914460525,Economics,Global Affairs,800,0.0
+38,N386120414296,M,Europe,ay1920,Undeclared,87.69366155,2,88.0843277666667,Economics,Physical Sciences,710,1.0
+39,N300120421277,F,East Asia,ay1920,Undeclared,88.61039192,4,91.575465115,Economics,Psychology,800,1.0
+40,N308120425297,M,South Asia,ay1920,Undeclared,74.95699535,4,73.4804151,Economics,"Mathematical, Computational and Statistical Sciences",780,0.0
+41,N312120413277,F,Other,ay1920,Undeclared,83.52419575,2,83.0533828558333,Economics,"Mathematical, Computational and Statistical Sciences",760,0.0
+42,N325120405277,M,South Asia,ay1920,Undeclared,78.74133026,2,77.0799146816667,Economics,"Philosophy, Politics and Economics",730,0.0
+43,N328115405225,M,Singapore,ay1920,Undeclared,85.23974113,4,85.5328970716667,Economics,Undecided,780,0.0
+44,N333120401297,M,Other,ay1920,Undeclared,81.96863209,3,80.073546355,Economics,Economics,800,0.0
+45,N337120423297,M,Southeast Asia,ay1920,Undeclared,78.89639321,3,74.7101166891667,Economics,Global Affairs,740,0.0
+46,N354120425296,M,South Asia,ay1920,Undeclared,88.779464,4,91.0682982891667,Economics,"Mathematical, Computational and Statistical Sciences",780,1.0
+47,N355120425277,M,Singapore,ay1920,Undeclared,83.0087058,4,81.8209247716667,Economics,Undecided,800,0.0
+48,N366120421296,M,South Asia,ay1920,Undeclared,79.1121898,3,75.5376998016667,Economics,Undecided,800,0.0
+49,N374120423296,F,East Asia,ay1920,Undeclared,76.52010771,4,75.6007150208333,Economics,Life Sciences,780,0.0
+50,N376120421277,F,Southeast Asia,ay1920,Undeclared,84.89899478,4,83.372138869375,Economics,"Philosophy, Politics and Economics",770,0.0
+51,N384120423277,F,Europe,ay1920,Undeclared,78.90700429,3,77.25690343916669,Economics,"Philosophy, Politics and Economics",650,0.0
+52,N384120424276,M,Singapore,ay1920,Undeclared,82.95042152,3,82.2504144275,Economics,Psychology,690,0.0
+53,N385120421277,M,South Asia,ay1920,Undeclared,80.70430782,4,80.5877538016667,Economics,Anthropology,800,0.0
+54,N390120425296,M,South Asia,ay1920,Undeclared,91.76047254,3,92.0807099116667,Economics,"Mathematical, Computational and Statistical Sciences",790,1.0
+55,N399120412276,M,Other,ay1920,Undeclared,80.33801214,4,80.3399579583333,Economics,"Philosophy, Politics and Economics",800,0.0
+56,N301120413297,F,Singapore,ay1920,Undeclared,83.11951026,4,81.6945696983333,Environmental Studies,Global Affairs,800,0.0
+57,N334120402297,F,Singapore,ay1920,Undeclared,84.11138183,4,82.2536284516667,Environmental Studies,Undecided,780,0.0
+58,N340120412277,M,Singapore,ay1920,Undeclared,89.85426435,4,93.6175050133333,Environmental Studies,Urban Studies,790,1.0
+59,N375120424276,M,Singapore,ay1920,Undeclared,83.36468475,4,84.3959525841667,Environmental Studies,Anthropology,790,0.0
+60,N378120413296,F,Singapore,ay1920,Undeclared,83.66692275,4,82.5241510058333,Environmental Studies,Anthropology,770,0.0
+61,N382120402276,M,Other,ay1920,Undeclared,89.39897929,4,91.61014206,Environmental Studies,"Mathematical, Computational and Statistical Sciences",800,1.0
+62,N386120421276,F,Other,ay1920,Undeclared,70.2187667,4,59.5688077833333,Environmental Studies,"Philosophy, Politics and Economics",690,0.0
+63,N390120402277,F,North America,ay1920,Undeclared,82.00543227,3,80.600553145,Environmental Studies,Urban Studies,660,0.0
+64,N303120408213,F,Singapore,ay1920,Undeclared,80.05624601,4,72.96577005,Environmental Studies,Urban Studies,660,0.0
+65,N304120412277,F,Other,ay1920,Undeclared,79.0751614,4,76.4071368883333,Environmental Studies,Psychology,660,0.0
+66,N307120402297,M,South Asia,ay1920,Undeclared,78.01235972,3,77.9029561533333,Environmental Studies,"Mathematical, Computational and Statistical Sciences",780,0.0
+67,N315120401297,F,Singapore,ay1920,Undeclared,80.67079943,3,77.3336387308333,Environmental Studies,Global Affairs,780,0.0
+68,N347120424277,F,North America,ay1920,Undeclared,67.7065185,4,69.1753720008333,Environmental Studies,"Philosophy, Politics and Economics",770,0.0
+69,N399120408296,F,Singapore,ay1920,Undeclared,83.82463699,3,80.5464697158333,Environmental Studies,Global Affairs,760,0.0
+70,N308120402278,F,Singapore,ay1920,Undeclared,84.89811649,4,85.5727155525,Global Affairs,"Philosophy, Politics and Economics",790,0.0
+71,N317120401277,M,Singapore,ay1920,Undeclared,81.39783727,4,85.4315340983333,Global Affairs,Literature,780,0.0
+72,N318120424297,F,Singapore,ay1920,Undeclared,90.19947631,4,89.927982195,Global Affairs,"Philosophy, Politics and Economics",780,1.0
+73,N321120413277,F,Singapore,ay1920,Undeclared,89.26642648,4,90.1015047308333,Global Affairs,"Philosophy, Politics and Economics",790,1.0
+74,N349120421277,F,Singapore,ay1920,Undeclared,81.92881491,4,80.4069962158333,Global Affairs,Economics,790,0.0
+75,N359120414296,F,Singapore,ay1920,Undeclared,83.5933002,4,80.8806665558333,Global Affairs,Economics,780,0.0
+76,N369120418276,F,South Asia,ay1920,Undeclared,78.49051056,3,75.9209918775,Global Affairs,"Philosophy, Politics and Economics",800,0.0
+77,N379120414276,M,Singapore,ay1920,Undeclared,72.62162325,3,67.33402135,Global Affairs,"Philosophy, Politics and Economics",740,0.0
+78,N395120418277,M,Singapore,ay1920,Undeclared,81.14405855,3,79.9419117325,Global Affairs,Literature,780,0.0
+79,N319120425277,M,East Asia,ay1920,Undeclared,77.48664019,2,76.4989268058333,Global Affairs,Economics,800,0.0
+80,N375120421296,M,Singapore,ay1920,Undeclared,87.95003753,2,84.8598091725,Global Affairs,History,800,0.0
+81,N310120418277,F,Europe,ay1920,Undeclared,86.66438881,3,85.6491435425,Global Affairs,Environmental Studies,640,0.0
+82,N318120402277,F,Singapore,ay1920,Undeclared,82.749971,3,75.0794891933333,Global Affairs,"Philosophy, Politics and Economics",740,0.0
+83,N322120412277,F,Other,ay1920,Undeclared,81.25214655,4,74.92361575333331,Global Affairs,Psychology,800,0.0
+84,N346120424296,F,Singapore,ay1920,Undeclared,77.11894551,4,67.7752965691667,Global Affairs,"Philosophy, Politics and Economics",800,0.0
+85,N372120401276,F,Singapore,ay1920,Undeclared,76.90212147,2,73.9192024758333,Global Affairs,"Philosophy, Politics and Economics",800,0.0
+86,N389120413276,F,Singapore,ay1920,Undeclared,77.77161423,3,71.960790445,Global Affairs,Environmental Studies,730,0.0
+87,N390120401276,F,Singapore,ay1920,Undeclared,81.01455047,3,77.7217535733333,Global Affairs,Urban Studies,780,0.0
+88,N315120408277,F,Singapore,ay1920,Undeclared,84.85942468,4,83.3515333116667,History,Undecided,770,0.0
+89,N320120412297,F,Singapore,ay1920,Undeclared,78.49992069,4,75.4973872025,History,Life Sciences,640,0.0
+90,N330120410297,F,Singapore,ay1920,Undeclared,76.87453137,4,83.6901465066667,History,Psychology,710,0.0
+91,N368120421276,M,Singapore,ay1920,Undeclared,85.99703195,3,85.3836748216667,History,"Philosophy, Politics and Economics",790,0.0
+92,N391120402276,M,Other,ay1920,Undeclared,75.40988178,2,77.8104291616667,History,Anthropology,730,0.0
+93,N306120405278,M,South Asia,ay1920,Undeclared,81.40382464,3,74.1655047658333,History,"Philosophy, Politics and Economics",730,0.0
+94,N313120410278,M,Europe,ay1920,Undeclared,87.3583125,3,85.0983453133333,History,Global Affairs,690,0.0
+95,N316120402297,F,North America,ay1920,Undeclared,80.03272519,2,73.6076485666667,History,"Philosophy, Politics and Economics",800,0.0
+96,N352120405277,M,Singapore,ay1920,Undeclared,77.27655258,4,79.6987526241667,History,"Philosophy, Politics and Economics",800,0.0
+97,N386120421258,F,Singapore,ay1920,Undeclared,81.2956407,4,76.4011183075,History,Arts & Humanities,680,0.0
+98,N303120410297,F,South Asia,ay1920,Undeclared,88.19749912,4,90.7378430425,Life Sciences,Physical Sciences,740,1.0
+99,N341117402293,F,Singapore,ay1920,Undeclared,89.30583629,4,85.0569188391667,Life Sciences,Literature,800,0.0
+100,N342120408277,F,Other,ay1920,Undeclared,91.08649554,4,92.70650999,Life Sciences,Psychology,790,1.0
+101,N351120408277,M,East Asia,ay1920,Undeclared,89.72419062,4,89.4864475433333,Life Sciences,Global Affairs,800,1.0
+102,N361120401296,F,Europe,ay1920,Undeclared,90.30308582,4,89.98037758,Life Sciences,Physical Sciences,770,1.0
+103,N384120421296,F,Southeast Asia,ay1920,Undeclared,81.78096526,4,82.9838006633333,Life Sciences,Arts & Humanities,770,0.0
+104,N388117405293,F,Singapore,ay1920,Undeclared,89.46742241,4,88.9751460791666,Life Sciences,Psychology,800,1.0
+105,N303120413277,M,Singapore,ay1920,Undeclared,84.13969476,3,81.3406116158333,Life Sciences,Physical Sciences,660,0.0
+106,N328120423297,F,Singapore,ay1920,Undeclared,89.12642029,3,89.8150213975,Life Sciences,Economics,740,1.0
+107,N331120412277,M,East Asia,ay1920,Undeclared,63.58159102,3,56.9524782541667,Life Sciences,Physical Sciences,790,0.0
+108,N396120414277,M,Singapore,ay1920,Undeclared,84.26494812,3,82.21256414,Life Sciences,Undeclared,720,0.0
+109,N383120424277,F,Singapore,ay1920,Undeclared,82.39705633,2,78.9611038675,Life Sciences,Undecided,730,0.0
+110,N314120410277,M,North America,ay1920,Undeclared,68.90020667,3,64.0024762666667,Life Sciences,Global Affairs,690,0.0
+111,N359120418277,F,North America,ay1920,Undeclared,82.37265439,3,81.3262354566667,Life Sciences,Psychology,690,0.0
+112,N366120423277,M,East Asia,ay1920,Undeclared,80.45061967,4,85.2635485733333,Life Sciences,Environmental Studies,800,0.0
+113,N369120414277,M,Southeast Asia,ay1920,Undeclared,87.83478432,4,88.9149324291667,Life Sciences,Psychology,790,1.0
+114,N374121423210,F,Singapore,ay1920,Undeclared,80.86671042,3,80.88544505,Life Sciences,Psychology,800,0.0
+115,N375121421210,F,Singapore,ay1920,Undeclared,76.73826991,3,70.5399032341667,Life Sciences,"Philosophy, Politics and Economics",780,0.0
+116,N382120425277,F,Southeast Asia,ay1920,Undeclared,79.11450178,4,75.4521714483333,Life Sciences,Psychology,790,0.0
+117,N383120425276,M,Europe,ay1920,Undeclared,89.81785499,4,88.3556999716667,Life Sciences,Physical Sciences,740,1.0
+118,N356120423296,F,South Asia,ay1920,Undeclared,87.11766513,4,87.8019783816667,Literature,Arts & Humanities,680,1.0
+119,N377120421276,M,Singapore,ay1920,Undeclared,74.68462635,4,73.28294883,Literature,Philosophy,800,0.0
+120,N387120418276,M,Singapore,ay1920,Undeclared,77.86851074,4,75.7904012241667,Literature,History,750,0.0
+121,N389120410296,F,Other,ay1920,Undeclared,79.41196863,4,79.5429555608333,Literature,Undecided,730,0.0
+122,N393120423277,M,Singapore,ay1920,Undeclared,85.93273358,4,82.2217573366667,Literature,History,800,0.0
+123,N335120401277,F,Southeast Asia,ay1920,Undeclared,85.35284844,3,86.7652924316667,Literature,Anthropology,750,1.0
+124,N365120423296,M,Singapore,ay1920,Undeclared,80.53273119,3,76.9722793333333,Literature,Psychology,790,0.0
+125,N302120414277,M,Singapore,ay1920,Undeclared,87.7273618,3,86.56156195083331,Literature,Environmental Studies,790,1.0
+126,N323120405297,F,Singapore,ay1920,Undeclared,61.9835553,3,59.64976185,Literature,Global Affairs,800,0.0
+127,N387120413296,F,South Asia,ay1920,Undeclared,80.65415463,3,76.9950998775,Literature,Anthropology,710,0.0
+128,N309120425278,M,East Asia,ay1920,Undeclared,89.44080748,4,87.5518328758333,"Mathematical, Computational and Statistical Sciences",Economics,800,1.0
+129,N357120423277,F,East Asia,ay1920,Undeclared,77.76514395,4,80.0442679383333,"Mathematical, Computational and Statistical Sciences",Economics,800,0.0
+130,N380120401277,M,Southeast Asia,ay1920,Undeclared,88.55400736,4,88.9872757525,"Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",780,1.0
+131,N381120402277,M,Other,ay1920,Undeclared,85.41018424,4,88.634640125,"Mathematical, Computational and Statistical Sciences",Arts & Humanities,800,1.0
+132,N383120423296,M,South Asia,ay1920,Undeclared,79.47842376,4,78.22168076,"Mathematical, Computational and Statistical Sciences",Physical Sciences,680,0.0
+133,N387120414277,M,South Asia,ay1920,Undeclared,88.60277283,4,91.6471853925,"Mathematical, Computational and Statistical Sciences",Physical Sciences,790,1.0
+134,N393120424276,M,Southeast Asia,ay1920,Undeclared,85.84178321,3,85.3425259641667,"Mathematical, Computational and Statistical Sciences",Physical Sciences,780,0.0
+135,N308120401277,M,Europe,ay1920,Undeclared,64.55402453,2,66.5870175516667,"Mathematical, Computational and Statistical Sciences",Economics,670,0.0
+136,N309120402277,M,North America,ay1920,Undeclared,87.75661322,3,86.3603599066667,"Mathematical, Computational and Statistical Sciences",Philosophy,790,1.0
+137,N310120413297,M,East Asia,ay1920,Undeclared,86.97894522,4,87.0056011491667,"Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",800,1.0
+138,N313120408297,M,Southeast Asia,ay1920,Undeclared,87.20850799,3,86.16223701,"Mathematical, Computational and Statistical Sciences",Urban Studies,740,0.0
+139,N313120412277,M,South Asia,ay1920,Undeclared,84.76013944,2,79.5636873691667,"Mathematical, Computational and Statistical Sciences",Undecided,760,0.0
+140,N316120401278,M,Other,ay1920,Undeclared,80.53152536,4,75.5609317258333,"Mathematical, Computational and Statistical Sciences",Economics,730,0.0
+141,N321120410297,M,South Asia,ay1920,Undeclared,91.78434454,3,92.443498525,"Mathematical, Computational and Statistical Sciences",Physical Sciences,780,1.0
+142,N335120425297,M,South Asia,ay1920,Undeclared,83.9633621,3,80.9307012666667,"Mathematical, Computational and Statistical Sciences",Undecided,700,0.0
+143,N361120405277,M,East Asia,ay1920,Undeclared,82.53281579,4,81.2323650516667,"Mathematical, Computational and Statistical Sciences",Physical Sciences,800,0.0
+144,N363114413299,M,Singapore,ay1920,Undeclared,92.51383919999999,2,92.9387401433333,"Mathematical, Computational and Statistical Sciences",Physical Sciences,780,1.0
+145,N372120402277,F,Europe,ay1920,Undeclared,86.27085411,4,87.57301395,"Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",800,1.0
+146,N380120402296,M,Other,ay1920,Undeclared,74.53022188,2,72.2108611625,"Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",740,0.0
+148,N363120425296,M,South Asia,ay1920,Undeclared,88.28366394,3,89.587782801875,Philosophy,Psychology,680,1.0
+149,N300120414297,F,Singapore,ay1920,Undeclared,80.86865334,4,77.84003707,"Philosophy, Politics and Economics",Global Affairs,770,0.0
+150,N310120414278,M,Singapore,ay1920,Undeclared,77.73462507,4,81.90454296,"Philosophy, Politics and Economics",History,780,0.0
+151,N324120401297,F,Singapore,ay1920,Undeclared,85.88350399,4,88.1887311908333,"Philosophy, Politics and Economics",Global Affairs,800,1.0
+152,N324120408277,M,South Asia,ay1920,Undeclared,90.19944666,4,93.0328205408333,"Philosophy, Politics and Economics",Economics,800,1.0
+153,N337120425277,F,Singapore,ay1920,Undeclared,85.24338002,4,84.1725327758333,"Philosophy, Politics and Economics",Global Affairs,790,0.0
+154,N348120421296,F,Southeast Asia,ay1920,Undeclared,84.33384569,4,84.4975076266667,"Philosophy, Politics and Economics",Economics,730,0.0
+155,N358120418296,M,Singapore,ay1920,Undeclared,77.34748686,4,82.29272966833331,"Philosophy, Politics and Economics",Global Affairs,780,0.0
+156,N358120421277,F,Singapore,ay1920,Undeclared,89.70127151,4,91.4417750708333,"Philosophy, Politics and Economics",Psychology,800,1.0
+157,N363120402277,F,Singapore,ay1920,Undeclared,88.18553829999999,4,88.4376506841667,"Philosophy, Politics and Economics",Global Affairs,800,1.0
+158,N380120405276,F,East Asia,ay1920,Undeclared,79.1676764,4,77.9654510375,"Philosophy, Politics and Economics",Arts & Humanities,730,0.0
+159,N395120421276,M,Singapore,ay1920,Undeclared,80.09383233,4,78.50510096,"Philosophy, Politics and Economics",Philosophy,780,0.0
+160,N397120412296,M,Singapore,ay1920,Undeclared,90.42215906,4,90.1101938066667,"Philosophy, Politics and Economics",Arts & Humanities,780,1.0
+161,N302120412297,F,Singapore,ay1920,Undeclared,74.44353551,3,68.0381784141667,"Philosophy, Politics and Economics",Urban Studies,800,0.0
+162,N323118412206,F,Singapore,ay1920,Undeclared,84.62586394,3,83.6566835166667,"Philosophy, Politics and Economics",Anthropology,800,0.0
+163,N338120421297,M,Other,ay1920,Undeclared,65.49784524,3,50.2885602408333,"Philosophy, Politics and Economics",Anthropology,740,0.0
+164,N339120423277,M,South Asia,ay1920,Undeclared,81.29529582,3,79.0984401383333,"Philosophy, Politics and Economics",Arts & Humanities,780,0.0
+165,N357120421296,F,Singapore,ay1920,Undeclared,80.71874622,3,76.4456505433333,"Philosophy, Politics and Economics",Undecided,740,0.0
+166,N362120401277,M,Singapore,ay1920,Undeclared,74.14878825,3,73.8757223966667,"Philosophy, Politics and Economics",Arts & Humanities,760,0.0
+167,N365120424277,M,Singapore,ay1920,Undeclared,78.87279486,3,74.5659819975,"Philosophy, Politics and Economics",Global Affairs,760,0.0
+168,N368120418277,M,Singapore,ay1920,Undeclared,80.31428537,3,77.4985766841667,"Philosophy, Politics and Economics",Global Affairs,710,0.0
+169,N378120414277,M,East Asia,ay1920,Undeclared,80.80847255,3,77.2108123533333,"Philosophy, Politics and Economics",Economics,790,0.0
+170,N395120414296,F,Singapore,ay1920,Undeclared,78.37713884,3,81.1502099808333,"Philosophy, Politics and Economics",History,800,0.0
+171,N396120413296,F,East Asia,ay1920,Undeclared,86.93800716,3,88.1247300091667,"Philosophy, Politics and Economics",Arts & Humanities,770,1.0
+172,N304120408297,M,Europe,ay1920,Undeclared,79.03367222,2,78.7869968216667,"Philosophy, Politics and Economics",Economics,630,0.0
+173,N305120408278,F,Singapore,ay1920,Undeclared,82.33399095,2,77.5935045225,"Philosophy, Politics and Economics",Arts & Humanities,700,0.0
+174,N312120410297,F,Southeast Asia,ay1920,Undeclared,73.5273382,2,75.5298617741667,"Philosophy, Politics and Economics",Urban Studies,700,0.0
+175,N305120405297,M,Other,ay1920,Undeclared,77.12674924,3,69.67075700916669,"Philosophy, Politics and Economics",Economics,760,0.0
+176,N311120414277,F,East Asia,ay1920,Undeclared,74.03061095,4,76.5194009775,"Philosophy, Politics and Economics",Economics,790,0.0
+177,N321120413277,F,North America,ay1920,Undeclared,81.86755955,3,76.82673161333331,"Philosophy, Politics and Economics",Global Affairs,730,0.0
+178,N328120425277,M,Singapore,ay1920,Undeclared,82.82552575,4,78.5000805241667,"Philosophy, Politics and Economics",Economics,730,0.0
+179,N329120424277,F,East Asia,ay1920,Undeclared,83.03591876,2,80.2594152333333,"Philosophy, Politics and Economics",Anthropology,790,0.0
+180,N331120408297,M,Singapore,ay1920,Undeclared,76.75308882,3,76.3682243975,"Philosophy, Politics and Economics",Economics,740,0.0
+181,N332120405297,M,Singapore,ay1920,Undeclared,78.72461679999999,4,78.7547720725,"Philosophy, Politics and Economics",Environmental Studies,780,0.0
+182,N336120402277,F,Singapore,ay1920,Undeclared,86.90722625,2,84.572966864375,"Philosophy, Politics and Economics",Psychology,740,0.0
+183,N347120423296,M,Singapore,ay1920,Undeclared,86.75256647,3,86.33462489,"Philosophy, Politics and Economics",Philosophy,780,1.0
+184,N353120402296,F,East Asia,ay1920,Undeclared,83.23933471,4,81.7054550883333,"Philosophy, Politics and Economics",Literature,780,0.0
+185,N360120405296,M,Southeast Asia,ay1920,Undeclared,78.72052974,2,79.0192949991667,"Philosophy, Politics and Economics",Economics,730,0.0
+186,N362120402296,F,South Asia,ay1920,Undeclared,86.50117658,4,88.2012794241667,"Philosophy, Politics and Economics",Economics,800,1.0
+187,N369120413296,F,Southeast Asia,ay1920,Undeclared,72.77073105,4,68.5507931716667,"Philosophy, Politics and Economics",Global Affairs,760,0.0
+188,N374120425276,F,Southeast Asia,ay1920,Undeclared,82.13902773,3,79.7496095608333,"Philosophy, Politics and Economics",Anthropology,780,0.0
+189,N377120418277,M,Other,ay1920,Undeclared,78.19741590000001,4,73.51034607666669,"Philosophy, Politics and Economics",Global Affairs,640,0.0
+190,N378120418276,M,Singapore,ay1920,Undeclared,86.11840335,3,87.3722325258333,"Philosophy, Politics and Economics",Psychology,750,1.0
+191,N381120401276,M,Singapore,ay1920,Undeclared,85.00245998,3,82.6543505341667,"Philosophy, Politics and Economics",Global Affairs,800,0.0
+192,N388120413277,M,Southeast Asia,ay1920,Undeclared,75.02567063,3,69.016013885,"Philosophy, Politics and Economics",Global Affairs,780,0.0
+193,N392120423296,M,Singapore,ay1920,Undeclared,81.67013576,3,78.6448708183333,"Philosophy, Politics and Economics",History,650,0.0
+194,N392120424277,M,Singapore,ay1920,Undeclared,80.41664317,4,78.41376926333331,"Philosophy, Politics and Economics",Undecided,770,0.0
+195,N392120425276,M,Singapore,ay1920,Undeclared,82.49363475,3,78.88629427583331,"Philosophy, Politics and Economics",Economics,770,0.0
+196,N348120423277,M,Southeast Asia,ay1920,Undeclared,87.44863185,4,84.9100846708333,Physical Sciences,"Mathematical, Computational and Statistical Sciences",800,0.0
+197,N385120418296,M,Southeast Asia,ay1920,Undeclared,72.73416774,3,76.0472288791667,Physical Sciences,"Mathematical, Computational and Statistical Sciences",690,0.0
+198,N304120410278,M,Europe,ay1920,Undeclared,90.89544204,4,93.4926388033333,Physical Sciences,Psychology,790,1.0
+199,N311120412297,M,Europe,ay1920,Undeclared,88.39765246,4,85.6303916516667,Physical Sciences,Physical Sciences,800,0.0
+200,N334120405277,F,Southeast Asia,ay1920,Undeclared,83.08582631,4,81.2677702666667,Physical Sciences,Life Sciences,740,0.0
+201,N336120424297,M,Southeast Asia,ay1920,Undeclared,89.52427611,4,89.6221222983333,Physical Sciences,Physical Sciences,740,1.0
+202,N344120401277,M,Singapore,ay1920,Undeclared,84.53967027,4,91.1961531208333,Physical Sciences,Economics,790,1.0
+203,N350120408296,F,South Asia,ay1920,Undeclared,85.44454694,4,88.31969174,Physical Sciences,"Mathematical, Computational and Statistical Sciences",800,1.0
+204,N351120405296,M,North America,ay1920,Undeclared,86.26307999,4,88.752260355,Physical Sciences,"Mathematical, Computational and Statistical Sciences",800,1.0
+205,N353120401277,M,South Asia,ay1920,Undeclared,90.46778371,4,90.8207343466667,Physical Sciences,Arts & Humanities,800,1.0
+206,N388120412296,M,Singapore,ay1920,Undeclared,83.23436177,3,83.0918517141667,Physical Sciences,Psychology,690,0.0
+207,N302120413278,M,Singapore,ay1920,Undeclared,83.13769243,4,89.9950630225,Psychology,Undeclared,780,1.0
+208,N322120408297,F,East Asia,ay1920,Undeclared,77.02899401,4,87.7102311866667,Psychology,Undecided,790,1.0
+209,N362120421251,F,Singapore,ay1920,Undeclared,69.49247485,4,62.6950518933333,Psychology,Global Affairs,670,0.0
+210,N367120412241,F,Singapore,ay1920,Undeclared,88.98657943,4,92.2859241375,Psychology,Anthropology,800,1.0
+211,N370120405277,F,Singapore,ay1920,Undeclared,82.25332212,4,77.6308259508333,Psychology,Anthropology,750,0.0
+212,N382120424296,F,Singapore,ay1920,Undeclared,78.52512696,4,79.8512685825,Psychology,Arts & Humanities,730,0.0
+213,N391120425277,M,Singapore,ay1920,Undeclared,86.97855440000001,4,87.5093722308333,Psychology,Undecided,800,1.0
+214,N306120401297,F,Singapore,ay1920,Undeclared,76.62698412,3,68.5864041275,Psychology,Arts & Humanities,690,0.0
+215,N329120421297,F,Singapore,ay1920,Undeclared,76.74702656,3,71.6820221625,Psychology,Undecided,670,0.0
+216,N341120410277,F,Singapore,ay1920,Undeclared,79.68583663,3,77.0763573191667,Psychology,Philosophy,730,0.0
+217,N373120421213,F,Singapore,ay1920,Undeclared,82.52312915,3,81.483372505,Psychology,Environmental Studies,800,0.0
+218,N323120410277,F,East Asia,ay1920,Undeclared,88.92838202,2,89.43557976666669,Psychology,Life Sciences,770,1.0
+219,N332120410277,F,Singapore,ay1920,Undeclared,86.96814054,2,84.42542871833331,Psychology,Philosophy,740,0.0
+220,N373120425277,F,Singapore,ay1920,Undeclared,76.08530640000001,2,73.1459088716667,Psychology,Urban Studies,790,0.0
+221,N301120418277,F,Other,ay1920,Undeclared,70.63468542,4,80.2568905641667,Psychology,Economics,790,0.0
+222,N305120410277,F,Singapore,ay1920,Undeclared,77.35716269,4,88.9422573075,Psychology,Environmental Studies,790,1.0
+223,N320120414277,M,East Asia,ay1920,Undeclared,85.83668775,3,84.9613576716667,Psychology,Psychology,780,0.0
+224,N326120425297,M,Singapore,ay1920,Undeclared,83.10338247,4,81.2816965708333,Psychology,Economics,750,0.0
+225,N346120425277,F,East Asia,ay1920,Undeclared,82.71163163,2,81.0100887266667,Psychology,Arts & Humanities,670,0.0
+226,N350120410277,F,Singapore,ay1920,Undeclared,75.09224717,2,78.023847055,Psychology,Environmental Studies,800,0.0
+227,N368120414296,F,Singapore,ay1920,Undeclared,82.87062655,3,79.2823157633333,Psychology,Life Sciences,700,0.0
+228,N384120424258,F,Singapore,ay1920,Undeclared,83.80777375,3,84.4231403391667,Psychology,Undecided,780,0.0
+229,N389120412277,M,Singapore,ay1920,Undeclared,70.33535793,3,63.6780605291667,Psychology,"Philosophy, Politics and Economics",800,0.0
+230,N398120413276,F,Singapore,ay1920,Undeclared,85.86992434,3,81.8230003266667,Psychology,"Philosophy, Politics and Economics",720,0.0
+231,N301120414278,F,Singapore,ay1920,Undeclared,79.27247568,3,78.047728305,Undecided,Psychology,710,0.0
+232,N315120405278,M,North America,ay1920,Undeclared,83.11877468,3,78.22718088,Undecided,"Philosophy, Politics and Economics",780,0.0
+233,N303120412278,M,Europe,ay1920,Undeclared,71.90573898,3,72.2838629883333,Undecided,Undecided,740,0.0
+234,N377120414296,M,South Asia,ay1920,Undeclared,91.44569592,4,93.4747812325,Undecided,Economics,790,1.0
+235,N355120424296,F,Singapore,ay1920,Undeclared,88.28326749,4,91.1206652333333,Urban Studies,"Philosophy, Politics and Economics",790,1.0
+236,N371120405276,M,Singapore,ay1920,Undeclared,82.18449969,4,83.28065006,Urban Studies,Economics,710,0.0
+237,N376120418296,F,Singapore,ay1920,Undeclared,79.61094431,4,75.1406927275,Urban Studies,Environmental Studies,780,0.0
+238,N399120410277,F,Singapore,ay1920,Undeclared,77.51864062,4,74.7630005083333,Urban Studies,"Philosophy, Politics and Economics",690,0.0
+239,N325120402297,F,Singapore,ay1920,Undeclared,79.41932694,3,72.2686500808333,Urban Studies,Arts & Humanities,730,0.0
+240,N372120425296,M,Singapore,ay1920,Undeclared,85.9009401,3,82.4393296725,Urban Studies,Environmental Studies,770,0.0
+241,N314120408278,M,Singapore,ay1920,Undeclared,81.91755846,4,77.5940900025,Urban Studies,Arts & Humanities,750,0.0
+242,N371120401277,M,Singapore,ay1920,Undeclared,81.32728053,4,79.2184476841667,Urban Studies,Undecided,780,0.0
+243,N379120412296,M,South Asia,ay1920,Undeclared,83.15536102,3,82.0534821166667,Urban Studies,History,800,0.0
+244,N380119410203,F,Singapore,ay1920,Undeclared,90.93151623,3,91.4225819666667,Urban Studies,Economics,780,1.0

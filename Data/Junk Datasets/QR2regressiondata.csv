@@ -1,0 +1,679 @@
+"","PIN","Sex.x","Region","Year","Major","Grade","Sex.y","Academic.Interest.1","Academic.Interest.2","Translated.SAT.I.Math","‘New’ High School Grades."
+"1","N356110408273","M","Singapore","ay1617","PHYSICAL SCIENCES",84.34063838,"M","Physical Sciences","Environmental Studies",NA,NA
+"2","N338113408261","F","Southeast Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",76.48380718,"F","Psychology","Global Affairs",790,NA
+"3","N351113418261","M","East Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",86.44270296,"M","Anthropology","Mathematical, Computational and Statistical Sciences",800,NA
+"4","N363114412242","F","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",79.88000282,"F","Global Affairs","Literature",NA,"B"
+"5","N337115408224","M","South Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",88.56328025,"M","Economics","Mathematical, Computational and Statistical Sciences",790,NA
+"6","N338115405224","F","Singapore","ay1617","GLOBAL AFFAIRS",77.88751253,"F","Philosophy, Politics and Economics","Global Affairs",780,NA
+"7","N339115401224","F","Other","ay1617","PSYCHOLOGY",80.83984747,"F","Arts & Humanities","Life Sciences",760,NA
+"8","N340115421224","M","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",78.47027464,"M","Philosophy, Politics and Economics",NA,NA,NA
+"9","N341115418224","F","Singapore","ay1617","PSYCHOLOGY",76.02095394,"F","Psychology","Life Sciences",NA,"A"
+"10","N342115414224","F","North America","ay1617","ANTHROPOLOGY",78.68105304,"F","Philosophy, Politics and Economics","Arts & Humanities",680,NA
+"11","N343115413224","F","Southeast Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",65.92017383,"F","Literature","Physical Sciences",790,NA
+"12","N344115412224","M","South Asia","ay1617","PSYCHOLOGY",81.6591999,"M","Physical Sciences","Philosophy, Politics and Economics",780,NA
+"13","N345115410224","F","East Asia","ay1617","GLOBAL AFFAIRS",59.99127997,"F","Literature","Philosophy, Politics and Economics",760,NA
+"14","N346115408224","F","Singapore","ay1617","URBAN STUDIES",72.42940789,"F","Global Affairs","Anthropology",NA,NA
+"15","N347115405224","M","South Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",76.12747663,"M","Arts & Humanities","Environmental Studies",740,NA
+"16","N348115401224","M","Southeast Asia","ay1617","ENVIRONMENTAL STUDIES",80.1543892,"M","Economics","Physical Sciences",730,NA
+"17","N349115402224","F","North America","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",76.73711374,"F","Economics","Literature",750,NA
+"18","N350115418224","F","North America","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",82.91867898,"F","Philosophy, Politics and Economics","Economics",720,NA
+"19","N352115413224","F","East Asia","ay1617","PSYCHOLOGY",79.91585298,"F","Global Affairs","Psychology",800,NA
+"20","N353115412224","M","East Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",82.86040047,"M","Philosophy, Politics and Economics","Arts & Humanities",800,NA
+"21","N354115410224","M","Singapore","ay1617","ENVIRONMENTAL STUDIES",78.11759837,"M","Philosophy, Politics and Economics","Economics",NA,NA
+"22","N355115408224","F","Other","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",86.58200982,"F","Mathematical, Computational and Statistical Sciences","Philosophy",780,NA
+"23","N356115405224","M","South Asia","ay1617","LIFE SCIENCES",85.12083833,"M","Physical Sciences",NA,770,NA
+"24","N357115401224","F","Singapore","ay1617","PSYCHOLOGY",76.26625713,"F","Life Sciences","Economics",720,NA
+"25","N359115425224","F","East Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",79.83545456,"F","Philosophy, Politics and Economics","Economics",800,NA
+"26","N360115414224","M","East Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",86.91862726,"M","Philosophy, Politics and Economics","Economics",790,NA
+"27","N361115413224","M","Other","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",74.09049647,"M","Economics",NA,780,NA
+"28","N362115412224","M","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",79.72885028,"M","Anthropology","Psychology",NA,NA
+"29","N364115408224","M","Southeast Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",84.65557973,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",800,NA
+"30","N365115405224","F","East Asia","ay1617","ECONOMICS",81.40253823,"F","Economics","Global Affairs",760,NA
+"31","N366115401224","F","Other","ay1617","ARTS AND HUMANITIES",79.34766152,"F","Arts & Humanities",NA,800,NA
+"32","N367115402224","F","East Asia","ay1617","LITERATURE",81.0858184,"F","Philosophy, Politics and Economics","Global Affairs",790,NA
+"33","N368115425224","M","Europe","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",81.58099586,"M","Global Affairs","Economics",710,NA
+"34","N369115424224","F","Other","ay1617","PHYSICAL SCIENCES",80.44593499,"F","Physical Sciences","Environmental Studies",760,NA
+"35","N370115413224","M","Europe","ay1617","ECONOMICS",80.93010891,"M","Physical Sciences","Mathematical, Computational and Statistical Sciences",800,NA
+"36","N371115412224","M","East Asia","ay1617",NA,80.21925112,"M","Undecided","Philosophy, Politics and Economics",800,NA
+"37","N372115410224","M","East Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",85.47715547,"M","Mathematical, Computational and Statistical Sciences","Psychology",780,NA
+"38","N373115408224","F","Singapore","ay1617","PHYSICAL SCIENCES",83.75950511,"F","Physical Sciences","Arts & Humanities",760,NA
+"39","N374115405224","F","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",82.26726906,"F","Undecided","Undecided",720,NA
+"40","N375115401224","M","Other","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",81.97417511,"M","Physical Sciences","Global Affairs",800,NA
+"41","N376115402224","M","Other","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",76.08676836,"M","Anthropology","Urban Studies",800,NA
+"42","N377115425224","M","Europe","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",83.6862312,"M","Physical Sciences","Global Affairs",800,NA
+"43","N378115424224","F","East Asia","ay1617","GLOBAL AFFAIRS",76.39187584,"F","Global Affairs","Philosophy, Politics and Economics",800,NA
+"44","N380115412224","M","Singapore","ay1617","ARTS AND HUMANITIES",75.53344807,"M","Psychology","Arts & Humanities",NA,NA
+"45","N381115410224","F","North America","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",76.7783664,"F","Economics","Arts & Humanities",730,"A"
+"46","N382115408224","F","Singapore","ay1617","HISTORY",81.23406531,"F","History","Physical Sciences",NA,NA
+"47","N383115405224","F","East Asia","ay1617","PSYCHOLOGY",68.52964797,"F","Global Affairs","Philosophy, Politics and Economics",730,NA
+"48","N384115401224","F","North America","ay1617","LITERATURE",77.96094511,"F","Global Affairs",NA,720,NA
+"49","N385115402224","F","Singapore","ay1617","HISTORY",70.32002667,"F","Anthropology","Arts & Humanities",NA,NA
+"50","N388115423224","F","South Asia","ay1617","LIFE SCIENCES",83.25054617,"F","Life Sciences","Mathematical, Computational and Statistical Sciences",800,NA
+"51","N389115421224","M","East Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",90.27986455,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",800,"A"
+"52","N390115410224","M","Singapore","ay1617","DDP LAW",78.96724451,"M","Philosophy","Global Affairs",NA,NA
+"53","N391115408224","F","Other","ay1617","ECONOMICS",75.19907508,"F","Economics","Mathematical, Computational and Statistical Sciences",NA,NA
+"54","N392115405224","F","Singapore","ay1617","URBAN STUDIES",70.95565981,"F","Economics","Undecided",NA,NA
+"55","N393115401224","F","North America","ay1617","PHILOSOPHY",77.99402823,"F","Global Affairs","Anthropology",660,"A"
+"56","N394115402224","M","Singapore","ay1617","ENVIRONMENTAL STUDIES",71.1899922,"M","Environmental Studies","Undecided",NA,NA
+"57","N395115425224","M","South Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",85.22282196,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",770,NA
+"58","N396115424224","F","South Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",76.01531941,"F","Literature","Economics",770,NA
+"59","N397115423224","F","East Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",84.57377542,"F","Psychology","Life Sciences",780,NA
+"60","N398115421224","M","Singapore","ay1617","DDP LAW",84.45361057,"M","Arts & Humanities","History",NA,NA
+"61","N399115418224","F","North America","ay1617","LIFE SCIENCES",74.7848926,"F","Life Sciences","Physical Sciences",760,NA
+"62","N300115425225","F","Other","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",69.84124881,"F","Philosophy, Politics and Economics","Arts & Humanities",670,NA
+"63","N301115424225","M","East Asia","ay1617","ECONOMICS",86.10986411,"M","Mathematical, Computational and Statistical Sciences","Economics",800,"B"
+"64","N302115423225","M","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",79.97041827,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"65","N303115421225","M","Europe","ay1617","ECONOMICS",80.9171097,"M","Economics","Global Affairs",730,NA
+"66","N304115418225","M","Southeast Asia","ay1617","ECONOMICS",76.48666569,"M","Economics","Global Affairs",NA,NA
+"67","N308115410225","M","East Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",80.52028981,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",780,NA
+"68","N310115424225","M","East Asia","ay1617",NA,73.55043013,"M","Undecided","Undecided",790,NA
+"69","N311115423225","F","Southeast Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",79.35372401,"F","Philosophy, Politics and Economics","Global Affairs",760,NA
+"70","N312115421225","F","Singapore","ay1617","ARTS AND HUMANITIES",63.70360435,"F","Psychology","Literature",NA,NA
+"71","N313115418225","F","Southeast Asia","ay1617","ENVIRONMENTAL STUDIES",81.15502193,"F","Environmental Studies","Philosophy, Politics and Economics",740,NA
+"72","N314115414225","F","Other","ay1617","PSYCHOLOGY",81.84561313,"F","Psychology","Urban Studies",690,NA
+"73","N315115413225","M","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",76.63190734,"M","Economics","Undecided",NA,NA
+"74","N317115410225","F","Singapore","ay1617","LITERATURE",82.23225527,"F","Arts & Humanities","Literature",800,NA
+"75","N319115405225","F","Europe","ay1617","ECONOMICS",79.60939361,"F","Mathematical, Computational and Statistical Sciences","Economics",800,"A"
+"76","N320115423225","F","East Asia","ay1617","ANTHROPOLOGY",69.72144319,"F","Literature","Anthropology",780,NA
+"77","N322115418225","F","East Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",80.26748767,"F",NA,"Philosophy, Politics and Economics",800,"A"
+"78","N324115413225","M","Other","ay1617","LIFE SCIENCES",86.4208005,"M","Life Sciences","Economics",760,NA
+"79","N327115408225","F","Singapore","ay1617","LIFE SCIENCES",79.07075335,"F","Physical Sciences","Life Sciences",NA,NA
+"80","N329115401225","M","North America","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",86.27727797,"M","Philosophy, Politics and Economics","Philosophy",780,NA
+"81","N330115421225","F","East Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",75.78836832,"F","Physical Sciences","Physical Sciences",790,NA
+"82","N332115414225","F","North America","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",87.53028966,"F","Literature","Life Sciences",800,NA
+"83","N334115412225","F","North America","ay1617","ANTHROPOLOGY",71.92370452,"F","Arts & Humanities","Arts & Humanities",650,NA
+"84","N335115410225","M","North America","ay1617","PHILOSOPHY",79.07629444,"M","Philosophy, Politics and Economics","Philosophy",780,NA
+"85","N337115405225","F","Other","ay1617","ANTHROPOLOGY",73.86967465,"F","Global Affairs","Anthropology",670,NA
+"86","N338115401225","F","Europe","ay1617","ANTHROPOLOGY",76.55802636,"F","History",NA,710,NA
+"87","N339115402225","F","South Asia","ay1617","ECONOMICS",75.33595263,"F","Life Sciences","Physical Sciences",770,NA
+"88","N340115418225","F","Singapore","ay1617","GLOBAL AFFAIRS",81.85983303,"F","Global Affairs","Urban Studies",750,NA
+"89","N341115414225","M","Singapore","ay1617","ECONOMICS",77.35840321,"M","Philosophy, Politics and Economics","Philosophy",NA,NA
+"90","N342115413225","M","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",72.78094443,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"91","N344115410225","F","Other","ay1617","GLOBAL AFFAIRS",84.82024872,"F","Environmental Studies","Global Affairs",760,NA
+"92","N345115408225","M","Southeast Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",82.51940806,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"93","N346115405225","M","Singapore","ay1617","DDP LAW",87.92355422,"M","Psychology","Undecided",NA,NA
+"94","N347115401225","M","Singapore","ay1617","PSYCHOLOGY",82.03034983,"M","Psychology","Undecided",NA,NA
+"95","N349115425225","F","East Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",78.08628151,"F","Life Sciences","Philosophy, Politics and Economics",730,NA
+"96","N350115414225","M","Southeast Asia","ay1617","ECONOMICS",86.55246929,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",780,NA
+"97","N351115413225","F","North America","ay1617","ECONOMICS",68.74229376,"F","Mathematical, Computational and Statistical Sciences",NA,760,NA
+"98","N352115412225","M","Singapore","ay1617","ECONOMICS",78.79309333,"M","Economics","Physical Sciences",NA,NA
+"99","N353115410225","F","North America","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",78.73259915,"F","Mathematical, Computational and Statistical Sciences","Global Affairs",660,NA
+"100","N354115408225","F","North America","ay1617","PHILOSOPHY",76.37738256,"F","Global Affairs","Philosophy, Politics and Economics",690,"C"
+"101","N355115405225","M","South Asia","ay1617","ECONOMICS",77.60754465,"M","Environmental Studies","Economics",780,NA
+"102","N356115401225","M","Other","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",85.30005403,"M","Physical Sciences","Anthropology",750,NA
+"103","N309115413240","F","Singapore","ay1617","ANTHROPOLOGY",72.78267116,"F","Anthropology","Undecided",NA,NA
+"104","N310115401240","F","East Asia","ay1617","LIFE SCIENCES",85.79036348,"F","Life Sciences","Physical Sciences",800,"A"
+"105","N312115425240","M","Singapore","ay1617","ENVIRONMENTAL STUDIES",83.72764738,"M","Environmental Studies","Physical Sciences",NA,NA
+"106","N305115413244","M","Singapore","ay1617","GLOBAL AFFAIRS",76.3662281,"M","Global Affairs","Undecided",NA,NA
+"107","N333115408255","M","Singapore","ay1617","ENVIRONMENTAL STUDIES",81.54422909,"M","Global Affairs","Economics",NA,NA
+"108","N336115405262","M","Singapore","ay1617","PSYCHOLOGY",82.75353371,"M","Psychology","Literature",NA,NA
+"109","N337115401262","M","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",83.14027049,"M","Literature","Philosophy",NA,NA
+"110","N338115402262","F","Singapore","ay1617","LITERATURE",79.1745172,"F","Undecided","Urban Studies",NA,"A"
+"111","N339115425262","M","Singapore","ay1617","HISTORY",79.32505174,"M","Economics","Philosophy, Politics and Economics",720,"A"
+"112","N340115414262","M","Singapore","ay1617","LITERATURE",75.53484698,"M","Literature","Arts & Humanities",NA,NA
+"113","N341115413262","M","Singapore","ay1617","ARTS AND HUMANITIES",83.63791604,"M","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"114","N342115412262","M","Singapore","ay1617","URBAN STUDIES",86.45350345,"M","Mathematical, Computational and Statistical Sciences","Psychology",NA,NA
+"115","N343115410262","F","Singapore","ay1617","DDP LAW",77.45169919,"F","Economics","Global Affairs",NA,"A"
+"116","N344115408262","F","Singapore","ay1617","URBAN STUDIES",83.55362341,"F","Urban Studies","Undecided",NA,NA
+"117","N345115405262","F","Singapore","ay1617","URBAN STUDIES",72.51209479,"F","Urban Studies","Environmental Studies",NA,"A"
+"118","N346115401262","F","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",73.96853571,"F","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"119","N347115402262","F","Singapore","ay1617","ANTHROPOLOGY",73.57759755,"F","Philosophy","Philosophy, Politics and Economics",NA,NA
+"120","N348115425262","M","Singapore","ay1617","DDP LAW",80.61711622,"M","Arts & Humanities","Philosophy, Politics and Economics",NA,NA
+"121","N350115413262","M","Singapore","ay1617","LITERATURE",79.67038008,"M","Literature","Anthropology",NA,NA
+"122","N351115412262","M","Singapore","ay1617","DDP LAW",88.99272376,"M","Psychology","Philosophy, Politics and Economics",NA,NA
+"123","N352115410262","F","Singapore","ay1617","PHILOSOPHY",72.98690726,"F","Philosophy, Politics and Economics","Arts & Humanities",NA,"A"
+"124","N353115408262","M","Singapore","ay1617","ENVIRONMENTAL STUDIES",84.19361446,"M","Psychology","Physical Sciences",NA,NA
+"125","N354115405262","M","Singapore","ay1617","PSYCHOLOGY",85.41070927,"M","Psychology","Physical Sciences",NA,"B"
+"126","N355115401262","M","Singapore","ay1617","ARTS AND HUMANITIES",79.09730241,"M","Literature","Arts & Humanities",NA,NA
+"127","N356115402262","M","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",84.55727807,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"128","N357115425262","F","Singapore","ay1617","DDP LAW",73.93495275,"F","Global Affairs","Urban Studies",NA,"B"
+"129","N358115424262","M","Singapore","ay1617","PHILOSOPHY",88.72992948,"M","Economics","Philosophy",NA,NA
+"130","N359115423262","M","Singapore","ay1617","DDP LAW",81.22579829,"M","Literature","Philosophy, Politics and Economics",NA,NA
+"131","N360115412262","F","Singapore","ay1617","PHILOSOPHY",74.7977115,"F","Economics","Global Affairs",NA,"B"
+"132","N361115410262","M","Singapore","ay1617","PSYCHOLOGY",75.12883933,"M","Psychology","Anthropology",NA,NA
+"133","N362115408262","M","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",87.39803863,"M","Literature","Undecided",800,NA
+"134","N363115405262","F","Singapore","ay1617","PSYCHOLOGY",82.38981274,"F","Psychology","Anthropology",NA,"A"
+"135","N364115401262","M","Singapore","ay1617","ENVIRONMENTAL STUDIES",88.85389028,"M","Environmental Studies","Global Affairs",NA,NA
+"136","N365115402262","F","Singapore","ay1617","URBAN STUDIES",74.77789602,"F","Arts & Humanities","Economics",NA,"A"
+"137","N366115425262","F","Singapore","ay1617","ARTS AND HUMANITIES",67.13947573,"F","Philosophy","Literature",NA,"A"
+"138","N367115424262","F","Singapore","ay1617","LITERATURE",68.37554092,"F","Arts & Humanities","Global Affairs",NA,"A"
+"139","N368115423262","M","Singapore","ay1617","PHILOSOPHY",77.56676698,"M","Psychology","Philosophy, Politics and Economics",NA,NA
+"140","N369115421262","F","East Asia","ay1617","URBAN STUDIES",87.73167761,"F","Philosophy, Politics and Economics","Mathematical, Computational and Statistical Sciences",800,NA
+"141","N370115410262","M","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",84.24992076,"M","Philosophy, Politics and Economics","Literature",NA,NA
+"142","N371115408262","M","Southeast Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",75.65204269,"M","Philosophy, Politics and Economics","Undecided",NA,"C"
+"143","N372115405262","F","Singapore","ay1617","ENVIRONMENTAL STUDIES",87.03276396,"F",NA,"Arts & Humanities",800,"A"
+"144","N374115402262","F","Singapore","ay1617","ARTS AND HUMANITIES",75.53960124,"F","Urban Studies","Life Sciences",NA,"A"
+"145","N375115425262","M","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",82.56481156,"M","Philosophy, Politics and Economics","Economics",NA,NA
+"146","N376115424262","M","Singapore","ay1617","LITERATURE",75.04838723,"M","History","Literature",NA,NA
+"147","N377115423262","F","Singapore","ay1617","GLOBAL AFFAIRS",75.30256053,"F","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"148","N378115421262","F","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",81.90524753,"F","Economics","Arts & Humanities",NA,"C"
+"149","N379115418262","M","Singapore","ay1617","PHILOSOPHY",75.49488313,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"150","N380115408262","F","Singapore","ay1617","DDP LAW",82.70048273,"F","Undecided","Undecided",NA,"A"
+"151","N381115405262","F","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",79.15664469,"F","Mathematical, Computational and Statistical Sciences","Global Affairs",800,"A"
+"152","N383115402262","M","Singapore","ay1617","ECONOMICS",86.91090462,"M","Economics","Environmental Studies",NA,NA
+"153","N384115425262","M","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",80.18857091,"M","Philosophy, Politics and Economics","Global Affairs",760,"B"
+"154","N385115424262","F","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",80.82346102,"F","Economics","Global Affairs",NA,"A"
+"155","N386115423262","M","Singapore","ay1617","LITERATURE",82.49726512,"M","Literature","Arts & Humanities",NA,NA
+"156","N387115421262","F","Singapore","ay1617","URBAN STUDIES",72.8257382,"F","Literature","Global Affairs",NA,"A"
+"157","N388115418262","F","Singapore","ay1617","PSYCHOLOGY",83.14528527,"F","Psychology","Economics",760,NA
+"158","N389115414262","M","Singapore","ay1617","PHYSICAL SCIENCES",86.53574265,"M","Physical Sciences","Philosophy",NA,NA
+"159","N390115405262","M","East Asia","ay1617","ECONOMICS",82.69046341,"M","Philosophy, Politics and Economics","Economics",NA,NA
+"160","N332115412272","F","Singapore","ay1617","PSYCHOLOGY",72.69721738,"F","Psychology","Global Affairs",NA,"A"
+"161","N318115402282","F","Singapore","ay1617","GLOBAL AFFAIRS",71.64074885,"F","Global Affairs","History",NA,"A"
+"162","N319115424283","F","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",76.73441856,"F","Philosophy, Politics and Economics","Undecided",NA,"B"
+"163","N391116401207","F","Singapore","ay1617","ECONOMICS",71.64780249,"F","Arts & Humanities","Literature",NA,"A"
+"164","N393116425207","M","Singapore","ay1617","ARTS AND HUMANITIES",85.30351181,"M","Arts & Humanities","Anthropology",NA,NA
+"165","N394116424207","F","Southeast Asia","ay1617","ANTHROPOLOGY",75.97365663,"F","Psychology","Philosophy, Politics and Economics",NA,NA
+"166","N395116423207","F","Singapore","ay1617","GLOBAL AFFAIRS",68.83767625,"F","Literature","Arts & Humanities",NA,"A"
+"167","N396116421207","M","Singapore","ay1617","DDP LAW",84.99638863,"M","Arts & Humanities","Philosophy, Politics and Economics",780,NA
+"168","N397116418207","M","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",70.17466963,"M","Economics","Philosophy, Politics and Economics",NA,NA
+"169","N398116414207","M","Singapore","ay1617","HISTORY",77.03445792,"M","History","Psychology",NA,NA
+"170","N399116413207","F","Singapore","ay1617","LITERATURE",69.38148812,"F","Global Affairs","Arts & Humanities",NA,NA
+"171","N301116421208","M","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",90.15654014,"M","Economics","Mathematical, Computational and Statistical Sciences",NA,NA
+"172","N303116414208","F","Singapore","ay1617","ARTS AND HUMANITIES",67.8273881,"F","Arts & Humanities","Undecided",NA,NA
+"173","N304116413208","F","Singapore","ay1617","ENVIRONMENTAL STUDIES",80.73789669,"F","Literature","Environmental Studies",790,NA
+"174","N305116412208","M","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",80.67286869,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"175","N306116410208","F","Singapore","ay1617","GLOBAL AFFAIRS",76.20873469,"F","Literature","Psychology",NA,NA
+"176","N307116408208","F","Singapore","ay1617","ANTHROPOLOGY",78.64211088,"F","Global Affairs","History",NA,NA
+"177","N308116405208","M","Singapore","ay1617","DDP LAW",85.95681585,"M","Urban Studies","Anthropology",780,NA
+"178","N309116401208","M","South Asia","ay1617","ENVIRONMENTAL STUDIES",71.62790205,"M","Environmental Studies","Philosophy, Politics and Economics",770,NA
+"179","N310116421208","F","Singapore","ay1617","HISTORY",78.58979406,"F","Anthropology","Literature",760,NA
+"180","N311116418208","F","Singapore","ay1617","ANTHROPOLOGY",74.54267808,"F","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"181","N312116414208","M","Singapore","ay1617","ARTS AND HUMANITIES",83.97301269,"M","Philosophy, Politics and Economics","Psychology",NA,NA
+"182","N313116413208","M","Southeast Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",86.91192385,"M","Economics","Philosophy, Politics and Economics",NA,NA
+"183","N324116421212","F","Singapore","ay1617","LIFE SCIENCES",74.70350819,"F","Life Sciences","Arts & Humanities",NA,NA
+"184","N325116418212","F","Singapore","ay1617","ENVIRONMENTAL STUDIES",70.50606923,"F","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"185","N336116408215","F","East Asia","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",78.74912827,"F","Economics","Anthropology",NA,NA
+"186","N337116405215","M","Singapore","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",81.26928979,"M","Physical Sciences","Mathematical, Computational and Statistical Sciences",NA,NA
+"187","N338116401215","F","Singapore","ay1617","DDP LAW",80.41593662,"F","Philosophy, Politics and Economics","Literature",NA,NA
+"188","N339116402215","F","Southeast Asia","ay1617","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",76.669592,"F","Arts & Humanities","Physical Sciences",780,NA
+"189","N340116418215","F","Singapore","ay1617","PSYCHOLOGY",70.75701479,"F","Arts & Humanities","Psychology",NA,NA
+"190","N341116414215","F","Singapore","ay1617","ANTHROPOLOGY",81.87284814,"F","Psychology","Anthropology",NA,NA
+"191","N342116413215","F","Singapore","ay1617","ARTS AND HUMANITIES",76.35703588,"F","Environmental Studies","Urban Studies",NA,NA
+"192","N343116412215","F","Singapore","ay1617","PSYCHOLOGY",73.84318678,"F","Literature","Psychology",790,NA
+"193","N335116405217","M","Other","ay1617","ENVIRONMENTAL STUDIES",78.7603016,"M","Environmental Studies","Life Sciences",660,NA
+"194","N337116402217","F","Singapore","ay1617","ANTHROPOLOGY",72.58670707,"F","Philosophy","Psychology",NA,NA
+"195","N300116408220","F","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",69.61578303,"F","Global Affairs","History",NA,NA
+"196","N330116424222","F","Singapore","ay1617","PHILOSOPHY, POLITICS AND ECONOMICS",72.85594307,"F","Global Affairs","Philosophy, Politics and Economics",NA,"C"
+"197","N377116425223","F","Singapore","ay1617","ENVIRONMENTAL STUDIES",66.23805196,"F","Urban Studies","Anthropology",NA,NA
+"198","N349111425274","M","Singapore","ay1718","PHYSICAL SCIENCES",82.17892062,"M","Physical Sciences","Philosophy, Politics and Economics",NA,"A"
+"199","N343112414217","M","Singapore","ay1718","PHILOSOPHY",77.96279024,"M","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"200","N373113405290","M","Singapore","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",79.83107517,"M","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"201","N378114401240","M","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",71.93820246,"M","Global Affairs","Arts & Humanities",NA,"A"
+"202","N350114423299","M","Southeast Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",87.12458192,"M","Physical Sciences","Physical Sciences",NA,"A"
+"203","N398114424299","F","Singapore","ay1718","DDP LAW",69.26628835,"F","Urban Studies","Philosophy, Politics and Economics",NA,"A"
+"204","N301115412200","F","Singapore","ay1718","ENVIRONMENTAL STUDIES",81.64738017,"F","Urban Studies","Physical Sciences",NA,"A"
+"205","N335115424200","F","Singapore","ay1718","URBAN STUDIES",81.37694677,"F","Psychology","Global Affairs",790,"A"
+"206","N333116413206","M","Singapore","ay1718","ECONOMICS",72.65589958,"M","Economics","Environmental Studies",750,NA
+"207","N338116402207","F","Singapore","ay1718","ANTHROPOLOGY",86.45332749,"F","Psychology","Arts & Humanities",NA,NA
+"208","N317116424248","M","Singapore","ay1718","HISTORY",72.47670048,"M","Psychology","History",NA,NA
+"209","N372116401280","M","Singapore","ay1718",NA,83.28568703,"M","Anthropology","Physical Sciences",800,"A"
+"210","N378116402288","M","Singapore","ay1718","ANTHROPOLOGY",74.85864683,"M","History","Philosophy, Politics and Economics",720,NA
+"211","N321116401295","M","Singapore","ay1718","ECONOMICS",72.16488674,"M","Economics","Environmental Studies",740,NA
+"212","N322116402295","F","Singapore","ay1718","ENVIRONMENTAL STUDIES",70.61054709,"F","Anthropology","Global Affairs",NA,NA
+"213","N323116425295","M","Singapore","ay1718","PSYCHOLOGY",75.52980822,"M","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"214","N324116424295","M","Singapore","ay1718","ANTHROPOLOGY",65.77432692,"M","Psychology","Arts & Humanities",NA,NA
+"215","N325116423295","F","Singapore","ay1718","HISTORY",79.46018487,"F","Global Affairs","History",NA,NA
+"216","N327116418295","F","Singapore","ay1718","PHYSICAL SCIENCES",78.61161536,"F","Undecided","Undecided",NA,NA
+"217","N328116414295","M","Singapore","ay1718","PSYCHOLOGY",73.75370921,"M","History","Environmental Studies",NA,NA
+"218","N329116413295","F","Singapore","ay1718","ANTHROPOLOGY",70.6614853,"F","Life Sciences","Life Sciences",800,NA
+"219","N397116401295","F","Singapore","ay1718","DDP LAW",74.94442064,"F","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"220","N398116402295","F","Singapore","ay1718","GLOBAL AFFAIRS",62.32669696,"F","Arts & Humanities","Literature",NA,NA
+"221","N399116425295","M","Singapore","ay1718","URBAN STUDIES",78.80081588,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"222","N300116408296","F","Singapore","ay1718","DDP LAW",68.97856067,"F","Arts & Humanities","Anthropology",NA,NA
+"223","N301116405296","F","Southeast Asia","ay1718","GLOBAL AFFAIRS",65.70324359,"F","Global Affairs","Philosophy, Politics and Economics",NA,"B"
+"224","N302116401296","M","South Asia","ay1718","ENVIRONMENTAL STUDIES",69.18006524,"M","Global Affairs","Arts & Humanities",790,NA
+"225","N303116402296","M","Singapore","ay1718","DDP LAW",73.75223723,"M","Undecided","Undecided",NA,NA
+"226","N304116425296","F","Singapore","ay1718","ARTS AND HUMANITIES",79.46231582,"F","Arts & Humanities","Undecided",NA,NA
+"227","N305116424296","M","Southeast Asia","ay1718","ECONOMICS",74.0333099,"M","Economics","Global Affairs",790,NA
+"228","N307116421296","F","Singapore","ay1718","DDP LAW",74.44626041,"F","Psychology","Philosophy, Politics and Economics",NA,NA
+"229","N308116418296","M","Other","ay1718","LITERATURE",56.10561781,"M","Philosophy, Politics and Economics","Global Affairs",630,NA
+"230","N309116414296","M","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",76.52862793,"M","Global Affairs","History",NA,NA
+"231","N310116405296","M","South Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",76.52911072,"M","Economics","Mathematical, Computational and Statistical Sciences",730,NA
+"232","N311116401296","M","Singapore","ay1718","ANTHROPOLOGY",70.44815994,"M","Anthropology","Economics",NA,"C"
+"233","N312116402296","F","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",71.03515791,"F","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"234","N313116425296","F","Singapore","ay1718","ECONOMICS",71.64727833,"F","Economics","Mathematical, Computational and Statistical Sciences",NA,NA
+"235","N315116423296","F","Singapore","ay1718",NA,71.79317824,"F","Urban Studies","Psychology",NA,NA
+"236","N317116418296","M","Singapore","ay1718","GLOBAL AFFAIRS",73.29036099,"M","Economics","Mathematical, Computational and Statistical Sciences",NA,NA
+"237","N319116413296","M","North America","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",76.07350718,"M","Philosophy, Politics and Economics","Global Affairs",740,NA
+"238","N320116401296","M","Other","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",82.8474659,"M","Economics","Economics",800,"A"
+"239","N321116402296","M","South Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",63.45757889,"M","Physical Sciences","Physical Sciences",780,NA
+"240","N322116425296","F","Southeast Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",77.34796274,"F","Economics","Environmental Studies",740,NA
+"241","N323116424296","M","Singapore","ay1718","HISTORY",69.29838955,"M","Philosophy, Politics and Economics","Anthropology",710,NA
+"242","N324116423296","F","Singapore","ay1718","ANTHROPOLOGY",75.96116826,"F","Anthropology","Undecided",690,NA
+"243","N325116421296","M","Singapore","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",83.31969961,"M","Economics","Mathematical, Computational and Statistical Sciences",800,NA
+"244","N326116418296","F","Singapore","ay1718","PSYCHOLOGY",68.47655928,"F","Psychology","Economics",NA,NA
+"245","N327116414296","F","Singapore","ay1718","URBAN STUDIES",71.69047237,"F","Global Affairs","Psychology",NA,"B"
+"246","N328116413296","M","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",67.55420679,"M","Anthropology","Arts & Humanities",680,NA
+"247","N329116412296","F","Singapore","ay1718","ARTS AND HUMANITIES",65.54708852,"F","Anthropology","Anthropology",NA,NA
+"248","N330116402296","F","South Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",75.43039594,"F","Mathematical, Computational and Statistical Sciences","Undecided",790,NA
+"249","N331116425296","F","Singapore","ay1718","GLOBAL AFFAIRS",71.82966164,"F","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"250","N332116424296","M","Singapore","ay1718","HISTORY",80.94594368,"M","Economics","Philosophy, Politics and Economics",NA,NA
+"251","N333116423296","F","Singapore","ay1718","URBAN STUDIES",68.05665924,"F","Anthropology",NA,730,"B"
+"252","N334116421296","M","South Asia","ay1718","URBAN STUDIES",62.88132446,"M","Global Affairs","Economics",700,NA
+"253","N335116418296","M","Southeast Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",73.5510569,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",NA,NA
+"254","N336116414296","M","Singapore","ay1718","ENVIRONMENTAL STUDIES",74.87832417,"M",NA,"Environmental Studies",800,NA
+"255","N337116413296","F","Singapore","ay1718","URBAN STUDIES",76.15501772,"F","Arts & Humanities","History",NA,NA
+"256","N338116412296","M","Singapore","ay1718","LITERATURE",70.02237505,"M","Literature","Arts & Humanities",NA,NA
+"257","N339116410296","F","Singapore","ay1718","URBAN STUDIES",66.88133575,"F","Philosophy","Literature",NA,NA
+"258","N340116425296","M","South Asia","ay1718","PHYSICAL SCIENCES",74.4688921,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",800,NA
+"259","N341116424296","F","Singapore","ay1718","LITERATURE",73.58403801,"F","Undecided","Arts & Humanities",NA,NA
+"260","N337117410203","M","South Asia","ay1718","ECONOMICS",66.44308283,"M","Economics","Psychology",720,NA
+"261","N338117408203","M","South Asia","ay1718","ECONOMICS",79.7548435,"M","Economics","Mathematical, Computational and Statistical Sciences",760,NA
+"262","N339117405203","F","East Asia","ay1718","LIFE SCIENCES",78.86053385,"F","Global Affairs","Life Sciences",750,"A"
+"263","N340117423203","F","Southeast Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",80.00463241,"F","Philosophy, Politics and Economics","Urban Studies",760,"B"
+"264","N341117421203","M","South Asia","ay1718","ECONOMICS",78.50753619,"M","Economics","Life Sciences",750,"A"
+"265","N342117418203","M","North America","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",74.70147315,"M","Physical Sciences","Economics",730,NA
+"266","N343117414203","M","East Asia","ay1718","ENVIRONMENTAL STUDIES",74.66900832,"M","Economics","Philosophy, Politics and Economics",800,"A"
+"267","N344117413203","M","East Asia","ay1718",NA,71.73540682,"M","Psychology","Mathematical, Computational and Statistical Sciences",800,"B"
+"268","N345117412203","M","Singapore","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",81.8210335,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",740,NA
+"269","N346117410203","F","Singapore","ay1718","URBAN STUDIES",84.70364821,"F","Global Affairs","Philosophy, Politics and Economics",800,NA
+"270","N348117405203","F","Europe","ay1718","LIFE SCIENCES",70.50012451,"F","Life Sciences","Environmental Studies",700,NA
+"271","N349117401203","F","Singapore","ay1718","URBAN STUDIES",70.0147248,"F","Life Sciences","Psychology",690,"A"
+"272","N350117421203","F","Other","ay1718","PSYCHOLOGY",78.76705628,"F","Philosophy, Politics and Economics","Psychology",780,NA
+"273","N351117418203","F","East Asia","ay1718","PHYSICAL SCIENCES",81.67677744,"F","Environmental Studies","Urban Studies",780,"A"
+"274","N352117414203","F","Other","ay1718","LIFE SCIENCES",66.80690716,"F","Physical Sciences","Psychology",680,NA
+"275","N353117413203","M","Other","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",67.65802125,"M","Economics","Philosophy, Politics and Economics",730,NA
+"276","N354117412203","F","Other","ay1718","PSYCHOLOGY",73.5492974,"F","Philosophy, Politics and Economics","Economics",770,NA
+"277","N355117410203","F","North America","ay1718","LIFE SCIENCES",71.62073397,"F","Global Affairs","Philosophy, Politics and Economics",760,NA
+"278","N356117408203","F","East Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",72.52422706,"F","Philosophy, Politics and Economics","Psychology",790,NA
+"279","N357117405203","F","Southeast Asia","ay1718","PHYSICAL SCIENCES",70.51912951,"F","Life Sciences","Life Sciences",720,"B"
+"280","N358117401203","M","East Asia","ay1718","PSYCHOLOGY",69.65653675,"M","Philosophy, Politics and Economics","Economics",800,"A"
+"281","N359117402203","F","East Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",82.10037637,"F","Environmental Studies","Physical Sciences",780,"A"
+"282","N360117418203","M","Europe","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",78.43494535,"M","Philosophy, Politics and Economics","Economics",780,NA
+"283","N361117414203","M","South Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",82.31390566,"M","Philosophy, Politics and Economics","Mathematical, Computational and Statistical Sciences",790,NA
+"284","N362117413203","F","Europe","ay1718","GLOBAL AFFAIRS",69.26514508,"F","Philosophy, Politics and Economics","Global Affairs",680,NA
+"285","N363117412203","M","Europe","ay1718","URBAN STUDIES",69.78489315,"M","Anthropology","Philosophy",620,NA
+"286","N364117410203","M","Southeast Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",87.44714374,"M","Mathematical, Computational and Statistical Sciences","Economics",800,NA
+"287","N365117408203","M","South Asia","ay1718","ECONOMICS",73.79506274,"M","Economics",NA,790,"A"
+"288","N367117401203","F","North America","ay1718","URBAN STUDIES",71.51087912,"F","Undecided","Physical Sciences",680,NA
+"289","N368117402203","F","Southeast Asia","ay1718","GLOBAL AFFAIRS",73.982031,"F","Philosophy, Politics and Economics","Arts & Humanities",730,NA
+"290","N369117425203","F","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",73.92285339,"F","Global Affairs","Psychology",730,"D"
+"291","N370117414203","F","East Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",76.00283203,"F","Psychology","Philosophy, Politics and Economics",770,NA
+"292","N371117413203","F","North America","ay1718","LIFE SCIENCES",75.69309178,"F","Psychology","Arts & Humanities",800,NA
+"293","N372117412203","M","South Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",68.90088027,"M","Undecided","Mathematical, Computational and Statistical Sciences",780,NA
+"294","N373117410203","F","South Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",70.35969082,"F","Mathematical, Computational and Statistical Sciences","Physical Sciences",680,NA
+"295","N374117408203","F","Other","ay1718","GLOBAL AFFAIRS",59.77056365,"F","Philosophy, Politics and Economics","Arts & Humanities",600,NA
+"296","N376117401203","F","Other","ay1718","LIFE SCIENCES",74.71963677,"F","Life Sciences","Environmental Studies",640,NA
+"297","N377117402203","M","Europe","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",79.26436343,"M","Philosophy, Politics and Economics","Economics",770,NA
+"298","N378117425203","F","South Asia","ay1718","ECONOMICS",68.16943528,"F","Philosophy, Politics and Economics","Economics",740,NA
+"299","N379117424203","F","Europe","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",74.89424229,"F","Philosophy, Politics and Economics",NA,800,NA
+"300","N380117413203","F","Singapore","ay1718","ENVIRONMENTAL STUDIES",70.16252993,"F","Environmental Studies","Undecided",720,"C"
+"301","N381117412203","M","Other","ay1718","ECONOMICS",75.47694541,"M","Economics","Global Affairs",780,NA
+"302","N383117408203","M","South Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",69.28703624,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",770,"A"
+"303","N384117405203","F","East Asia","ay1718","ECONOMICS",78.04195978,"F","Philosophy, Politics and Economics","Life Sciences",800,NA
+"304","N385117401203","F","Singapore","ay1718","ECONOMICS",79.59556815,"F","Economics","Philosophy, Politics and Economics",750,"A"
+"305","N386117402203","M","South Asia","ay1718","ECONOMICS",69.1122462,"M","Environmental Studies","Physical Sciences",780,NA
+"306","N387117425203","M","Europe","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",80.38371964,"M","Philosophy, Politics and Economics","Philosophy, Politics and Economics",760,NA
+"307","N388117424203","M","Singapore","ay1718","PSYCHOLOGY",78.3376146,"M","Psychology","Philosophy, Politics and Economics",NA,"C"
+"308","N389117423203","F","Southeast Asia","ay1718","PSYCHOLOGY",74.50114366,"F","Mathematical, Computational and Statistical Sciences","Life Sciences",770,NA
+"309","N390117412203","F","Southeast Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",76.76141269,"F","Mathematical, Computational and Statistical Sciences","Physical Sciences",790,"A"
+"310","N391117410203","F","South Asia","ay1718","GLOBAL AFFAIRS",60.87000402,"F","Literature","Physical Sciences",690,NA
+"311","N392117408203","F","North America","ay1718","GLOBAL AFFAIRS",69.94147872,"F","Arts & Humanities","Arts & Humanities",780,"A"
+"312","N393117405203","F","Singapore","ay1718","LIFE SCIENCES",81.03309355,"F","Anthropology","Arts & Humanities",740,"C"
+"313","N394117401203","F","Europe","ay1718","LIFE SCIENCES",66.87796064,"F","Life Sciences","Physical Sciences",710,NA
+"314","N395117402203","F","Europe","ay1718","ARTS AND HUMANITIES",63.92244538,"F","Arts & Humanities","Psychology",730,NA
+"315","N397117424203","F","South Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",68.2251571,"F","Undecided","Economics",780,NA
+"316","N399117421203","M","South Asia","ay1718","LITERATURE",77.41716,"M","Mathematical, Computational and Statistical Sciences","Literature",710,NA
+"317","N300117402204","M","Other","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",75.0354063,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",650,"C"
+"318","N301117425204","F","Europe","ay1718","PSYCHOLOGY",71.53757387,"F","Psychology","Philosophy",690,NA
+"319","N302117424204","M","North America","ay1718","PHILOSOPHY",82.21033563,"M","Economics","Physical Sciences",800,NA
+"320","N305117418204","F","East Asia","ay1718","GLOBAL AFFAIRS",74.6751534,"F","Psychology","Global Affairs",800,NA
+"321","N307117413204","F","Other","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",72.32308502,"F","Mathematical, Computational and Statistical Sciences","Undecided",740,NA
+"322","N308117412204","M","North America","ay1718","ECONOMICS",77.08777091,"M","Philosophy, Politics and Economics","Mathematical, Computational and Statistical Sciences",800,NA
+"323","N309117410204","M","Singapore","ay1718","LIFE SCIENCES",80.10688302,"M","Life Sciences","Physical Sciences",760,"B"
+"324","N310117425204","F","Europe","ay1718","PHYSICAL SCIENCES",74.73807969,"F","Physical Sciences",NA,780,NA
+"325","N311117424204","M","Southeast Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",79.27507253,"M","Undecided","Undecided",660,"B"
+"326","N312117423204","M","South Asia","ay1718","PHYSICAL SCIENCES",82.58960111,"M","Physical Sciences","Mathematical, Computational and Statistical Sciences",800,NA
+"327","N313117421204","F","Europe","ay1718","GLOBAL AFFAIRS",79.37313166,"F","Psychology","Urban Studies",780,NA
+"328","N315117414204","M","Other","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",59.7883052,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",740,NA
+"329","N316117413204","F","Singapore","ay1718","URBAN STUDIES",75.72872486,"F","Undecided","Anthropology",730,"A"
+"330","N318117410204","F","East Asia","ay1718",NA,47.5721058,"F","Life Sciences","Psychology",790,"A"
+"331","N319117408204","M","North America","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",70.68310708,"M","Global Affairs","Economics",670,NA
+"332","N320117424204","F","Other","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",59.05503051,"F","Global Affairs","Philosophy, Politics and Economics",670,NA
+"333","N321117423204","M","Southeast Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",63.84328887,"M","Anthropology","Anthropology",620,NA
+"334","N322117421204","F","South Asia","ay1718","PHYSICAL SCIENCES",66.3143382,"F","Mathematical, Computational and Statistical Sciences","Economics",750,NA
+"335","N323117418204","M","South Asia","ay1718","ENVIRONMENTAL STUDIES",64.40156743,"M","Physical Sciences","Philosophy",680,NA
+"336","N324117414204","F","East Asia","ay1718","ENVIRONMENTAL STUDIES",82.69539677,"F","Psychology","Physical Sciences",800,NA
+"337","N325117413204","M","Other","ay1718","PHYSICAL SCIENCES",69.76998231,"M","Physical Sciences","Arts & Humanities",680,NA
+"338","N326117412204","M","South Asia","ay1718","ECONOMICS",64.0351786,"M","Philosophy, Politics and Economics","Economics",710,NA
+"339","N327117410204","F","East Asia","ay1718","PHYSICAL SCIENCES",74.90941351,"F","Mathematical, Computational and Statistical Sciences","Economics",800,NA
+"340","N328117408204","F","East Asia","ay1718","URBAN STUDIES",71.57557779,"F","Anthropology","Anthropology",780,NA
+"341","N329117405204","F","East Asia","ay1718","PHILOSOPHY",85.98195034,"F","History","Psychology",800,"A"
+"342","N330117423204","F","East Asia","ay1718","ENVIRONMENTAL STUDIES",70.50973758,"F","Environmental Studies","Global Affairs",760,"B"
+"343","N331117421204","F","Europe","ay1718","GLOBAL AFFAIRS",71.73787307,"F","Global Affairs","Arts & Humanities",640,NA
+"344","N332117418204","F","Singapore","ay1718","ECONOMICS",71.48396429,"F","Economics","Undecided",NA,"C"
+"345","N333117414204","F","Singapore","ay1718","PHILOSOPHY",69.68523625,"F","Global Affairs","Philosophy, Politics and Economics",700,"B"
+"346","N334117413204","F","East Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",77.16595768,"F","Psychology","Philosophy, Politics and Economics",740,NA
+"347","N335117412204","F","Singapore","ay1718","ANTHROPOLOGY",73.79035612,"F","Life Sciences","Economics",710,"B"
+"348","N336117410204","F","Singapore","ay1718","URBAN STUDIES",67.59103376,"F","Global Affairs","Urban Studies",720,"B"
+"349","N337117408204","M","North America","ay1718",NA,70.34038435,"M","Philosophy, Politics and Economics","Urban Studies",760,NA
+"350","N339117401204","F","Southeast Asia","ay1718","ECONOMICS",81.98200871,"F","Philosophy, Politics and Economics","Economics",760,NA
+"351","N341117418204","F","Other","ay1718","PSYCHOLOGY",67.29805851,"F","Life Sciences","Psychology",690,"C"
+"352","N343117413204","M","North America","ay1718","PHYSICAL SCIENCES",76.46653885,"M","History","Physical Sciences",720,NA
+"353","N344117412204","F","East Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",64.16292427,"F","Urban Studies","Philosophy, Politics and Economics",800,NA
+"354","N345117410204","M","South Asia","ay1718","ENVIRONMENTAL STUDIES",80.71172352,"M","Environmental Studies","Economics",800,NA
+"355","N324117405209","M","East Asia","ay1718","PHYSICAL SCIENCES",82.22060317,"M","Environmental Studies","Physical Sciences",800,"A"
+"356","N339117421209","M","Southeast Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",81.04889791,"M","Physical Sciences","Physical Sciences",NA,"A"
+"357","N340117410209","M","Singapore","ay1718","DDP LAW",67.06566635,"M","Global Affairs","Economics",NA,NA
+"358","N341117408209","F","Southeast Asia","ay1718","LIFE SCIENCES",78.89267133,"F","Life Sciences","Literature",NA,"C"
+"359","N342117405209","M","East Asia","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",84.71526283,"M","Physical Sciences","Psychology",NA,"A"
+"360","N343117401209","M","Singapore","ay1718","GLOBAL AFFAIRS",70.69804833,"M","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"361","N345117425209","M","East Asia","ay1718","ARTS AND HUMANITIES",70.02258815,"M","Psychology","Physical Sciences",NA,"A"
+"362","N395117424214","F","Singapore","ay1718","PSYCHOLOGY",74.08300791,"F","Arts & Humanities","Physical Sciences",NA,"A"
+"363","N396117423214","M","Singapore","ay1718","DDP LAW",74.16537966,"M","Literature","Arts & Humanities",NA,NA
+"364","N397117421214","M","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",80.83903089,"M","Physical Sciences","Anthropology",NA,NA
+"365","N398117418214","M","Singapore","ay1718","ANTHROPOLOGY",84.72127114,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"366","N399117414214","M","Singapore","ay1718","ENVIRONMENTAL STUDIES",78.97665107,"M","Philosophy, Politics and Economics","Economics",NA,NA
+"367","N300117424215","F","Singapore","ay1718","PSYCHOLOGY",77.53642961,"F","Psychology","Mathematical, Computational and Statistical Sciences",NA,"A"
+"368","N301117423215","F","Singapore","ay1718","ECONOMICS",72.35448401,"F","History","Philosophy, Politics and Economics",NA,"A"
+"369","N302117421215","F","Singapore","ay1718","ENVIRONMENTAL STUDIES",75.32937392,"F","Anthropology","Philosophy, Politics and Economics",NA,"A"
+"370","N303117418215","F","Singapore","ay1718","ARTS AND HUMANITIES",70.03597517,"F","Philosophy","Literature",NA,"A"
+"371","N304117414215","M","Europe","ay1718","ECONOMICS",81.93147844,"M","Economics","Philosophy, Politics and Economics",770,NA
+"372","N305117413215","F","Singapore","ay1718","PHILOSOPHY",68.94756852,"F","Philosophy","Undecided",NA,NA
+"373","N306117412215","F","Singapore","ay1718","GLOBAL AFFAIRS",74.20562206,"F","Arts & Humanities","Global Affairs",NA,"C"
+"374","N307117410215","M","Singapore","ay1718","PHILOSOPHY",73.56376601,"M","Literature","Undecided",NA,NA
+"375","N308117408215","F","Singapore","ay1718","ANTHROPOLOGY",74.84580892,"F","Psychology","Anthropology",NA,"A"
+"376","N343117410215","F","Singapore","ay1718","ENVIRONMENTAL STUDIES",80.4075255,"F","Anthropology","Urban Studies",NA,"A"
+"377","N344117408215","F","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",69.51198727,"F","Economics","Mathematical, Computational and Statistical Sciences",800,"A"
+"378","N345117405215","F","Singapore","ay1718","ECONOMICS",74.65429822,"F","Literature","Arts & Humanities",NA,"A"
+"379","N346117401215","M","Singapore","ay1718","DDP LAW",78.61769536,"M","Philosophy, Politics and Economics","Psychology",NA,NA
+"380","N347117402215","F","Singapore","ay1718","PSYCHOLOGY",73.48723957,"F","Global Affairs","Philosophy, Politics and Economics",NA,"A"
+"381","N348117425215","F","Singapore","ay1718","PSYCHOLOGY",75.32010837,"F","Philosophy, Politics and Economics","Anthropology",710,"A"
+"382","N349117424215","F","Singapore","ay1718","LITERATURE",73.69640721,"F","Global Affairs","Economics",780,"A"
+"383","N350117413215","M","Singapore","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",86.42025538,"M","Global Affairs","Philosophy, Politics and Economics",NA,NA
+"384","N351117412215","M","Singapore","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",83.31129708,"M","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",NA,NA
+"385","N352117410215","F","Southeast Asia","ay1718","ENVIRONMENTAL STUDIES",77.96408533,"F","Environmental Studies","Urban Studies",NA,"A"
+"386","N354117405215","F","Singapore","ay1718","ARTS AND HUMANITIES",72.6205784,"F","Literature","Undecided",NA,"A"
+"387","N355117401215","M","North America","ay1718","ENVIRONMENTAL STUDIES",79.03990372,"M","Arts & Humanities","Environmental Studies",780,NA
+"388","N357117425215","F","Singapore","ay1718","ENVIRONMENTAL STUDIES",69.96620202,"F","Literature","Philosophy, Politics and Economics",NA,"B"
+"389","N358117424215","M","Singapore","ay1718","DDP LAW",76.71359606,"M","Physical Sciences","Global Affairs",NA,NA
+"390","N359117423215","M","Singapore","ay1718","PHILOSOPHY",65.13034035,"M","Literature","Philosophy, Politics and Economics",NA,NA
+"391","N361117410215","M","Singapore","ay1718","DDP LAW",68.2168668,"M","Arts & Humanities","Literature",NA,NA
+"392","N362117408215","F","Singapore","ay1718","DDP LAW",80.59880221,"F","Urban Studies","Philosophy, Politics and Economics",NA,"A"
+"393","N363117405215","M","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",78.37806212,"M","Philosophy, Politics and Economics","Urban Studies",NA,NA
+"394","N364117401215","M","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",71.81812209,"M","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"395","N365117402215","F","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",71.16690179,"F","Global Affairs","Philosophy, Politics and Economics",NA,"A"
+"396","N366117425215","M","Singapore","ay1718","ANTHROPOLOGY",75.70777365,"M","Psychology","Anthropology",NA,"B"
+"397","N367117424215","F","Singapore","ay1718","HISTORY",73.63610779,"F","Arts & Humanities","Global Affairs",NA,"B"
+"398","N368117423215","M","Singapore","ay1718","ANTHROPOLOGY",76.56354905,"M","Economics","Global Affairs",NA,"A"
+"399","N370117410215","M","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",77.17513013,"M","Anthropology","Global Affairs",NA,"A"
+"400","N371117408215","M","Singapore","ay1718","PHILOSOPHY",85.30743954,"M","Arts & Humanities","Philosophy, Politics and Economics",800,NA
+"401","N372117405215","M","Singapore","ay1718","URBAN STUDIES",78.54112232,"M","Global Affairs","History",NA,NA
+"402","N373117401215","M","Singapore","ay1718","DDP LAW",76.40874593,"M","Philosophy, Politics and Economics","History",NA,"A"
+"403","N374117402215","F","Singapore","ay1718","LITERATURE",65.53570399,"F","Literature","Philosophy",NA,NA
+"404","N375117425215","F","Singapore","ay1718","PSYCHOLOGY",75.52602006,"F","Psychology","Urban Studies",NA,"A"
+"405","N377117423215","M","Singapore","ay1718","PHILOSOPHY",75.65201174,"M","Philosophy","Psychology",NA,NA
+"406","N378117421215","M","East Asia","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",73.68292738,"M","Environmental Studies","Arts & Humanities",800,"B"
+"407","N379117418215","F","Singapore","ay1718","URBAN STUDIES",79.51220346,"F","Global Affairs","Economics",NA,"A"
+"408","N380117408215","M","Singapore","ay1718","ECONOMICS",70.36191801,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"409","N381117405215","F","Singapore","ay1718","URBAN STUDIES",70.87097091,"F","Literature","Arts & Humanities",NA,"A"
+"410","N382117401215","M","Singapore","ay1718","LITERATURE",68.59621751,"M","History","Literature",NA,NA
+"411","N383117402215","F","Singapore","ay1718","DDP LAW",75.45527173,"F","Psychology","Anthropology",NA,"A"
+"412","N384117425215","M","Singapore","ay1718","ENVIRONMENTAL STUDIES",74.16561121,"M","Arts & Humanities","Global Affairs",NA,NA
+"413","N385117424215","M","Singapore","ay1718","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",76.31154069,"M","Literature","Mathematical, Computational and Statistical Sciences",NA,"A"
+"414","N387117421215","F","Singapore","ay1718","ARTS AND HUMANITIES",71.19067086,"F","History","Literature",NA,"A"
+"415","N388117418215","F","Singapore","ay1718","URBAN STUDIES",79.59090784,"F","Urban Studies","Environmental Studies",NA,"A"
+"416","N390117405215","F","Singapore","ay1718","HISTORY",83.98955701,"F","History","Global Affairs",NA,"A"
+"417","N391117401215","F","Singapore","ay1718","GLOBAL AFFAIRS",62.67356118,"F","History","Global Affairs",NA,"A"
+"418","N392117402215","M","Singapore","ay1718","ANTHROPOLOGY",77.53959495,"F","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"419","N393117425215","F","Singapore","ay1718","LITERATURE",65.9405823,"F","Literature","Arts & Humanities",NA,"B"
+"420","N382117423219","F","Singapore","ay1718","HISTORY",74.26446829,"F","Life Sciences","Philosophy",NA,"A"
+"421","N303117425220","F","Other","ay1718","LIFE SCIENCES",68.77489022,"F","History","Life Sciences",740,NA
+"422","N340117421222","F","Singapore","ay1718","DDP LAW",77.1530492,"F","Urban Studies","Psychology",NA,"A"
+"423","N333117405227","F","Singapore","ay1718","PSYCHOLOGY",79.57919196,"F","Psychology","Life Sciences",NA,"A"
+"424","N327117401243","F","Singapore","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",76.89038566,"F","Literature","Philosophy, Politics and Economics",NA,"A"
+"425","N332117412243","M","South Asia","ay1718","LIFE SCIENCES",74.71097666,"M","Environmental Studies","Physical Sciences",720,NA
+"426","N334117408243","F","Singapore","ay1718","URBAN STUDIES",76.18569058,"F","Global Affairs","Philosophy, Politics and Economics",740,"A"
+"427","N335117405243","F","Singapore","ay1718","LIFE SCIENCES",71.29241129,"F","Anthropology","Life Sciences",NA,NA
+"428","N323117408245","M","Singapore","ay1718",NA,75.87896197,"M","Economics",NA,800,NA
+"429","N324117405245","M","Other","ay1718","PHILOSOPHY, POLITICS AND ECONOMICS",80.30951884,"M","Philosophy, Politics and Economics","Anthropology",780,"A"
+"430","N328117424245","M","Singapore","ay1718","URBAN STUDIES",82.07533371,"M","Arts & Humanities","Mathematical, Computational and Statistical Sciences",NA,NA
+"431","N393117421263","F","Singapore","ay1718","PSYCHOLOGY",75.87086347,"F","Philosophy, Politics and Economics","History",NA,"A"
+"432","N313117412271","F","Singapore","ay1718","DDP LAW",73.12502596,"F","Philosophy, Politics and Economics","Global Affairs",780,"A"
+"433","N314117410271","M","Singapore","ay1718",NA,70.17977054,"M","Philosophy, Politics and Economics","Global Affairs",NA,"C"
+"434","N314113414263","M","Singapore","ay1819","ANTHROPOLOGY",75.87839804,"M","Anthropology","Global Affairs",NA,"B"
+"435","N360116405246","F","Singapore","ay1819","ENVIRONMENTAL STUDIES",85.2513719,"F","Environmental Studies","Anthropology",NA,"A"
+"436","N330116410247","F","East Asia","ay1819","PHYSICAL SCIENCES",85.65314304,"F","Physical Sciences","Physical Sciences",800,NA
+"437","N316116421296","F","South Asia","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",74.16231877,"F","Philosophy, Politics and Economics","Undecided",740,NA
+"438","N395117414218","F","Singapore","ay1819","PSYCHOLOGY",80.49733333,"F","Psychology","History",NA,"A"
+"439","N359117405268","F","Singapore","ay1819","ARTS AND HUMANITIES",80.22087022,"F","Arts & Humanities","Urban Studies",NA,"A"
+"440","N321118418223","M","Singapore","ay1819","PHILOSOPHY",83.12729392,"M","Philosophy","Undecided",NA,NA
+"441","N300118421234","M","Singapore","ay1819","URBAN STUDIES",78.37422772,"M","Urban Studies","Economics",NA,"B"
+"442","N391118421237","M","Singapore","ay1819","GLOBAL AFFAIRS",76.40164158,"M","Global Affairs","Philosophy, Politics and Economics",NA,"A"
+"443","N368118423250","F","Singapore","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",71.79521846,"F","Mathematical, Computational and Statistical Sciences","Physical Sciences",NA,NA
+"444","N320119425201","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",71.55733235,"M","Philosophy, Politics and Economics","Psychology",NA,"C"
+"445","N372119425207","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",72.25957056,"M","Philosophy, Politics and Economics","Mathematical, Computational and Statistical Sciences",730,"A"
+"446","N373119424207","F","Europe","ay1819","LIFE SCIENCES",73.9722504,"F","Life Sciences","Physical Sciences",730,NA
+"447","N374119423207","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",74.45054189,"F","Philosophy, Politics and Economics","Psychology",NA,"A"
+"448","N375119421207","M","Singapore","ay1819","ECONOMICS",84.46199216,"M","Economics","Anthropology",NA,"A"
+"449","N376119418207","F","Singapore","ay1819","PHYSICAL SCIENCES",81.58707874,"F","Physical Sciences","Undecided",NA,NA
+"450","N377119414207","M","Europe","ay1819","GLOBAL AFFAIRS",82.38224546,"M","Global Affairs","Life Sciences",780,NA
+"451","N378119413207","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",74.69191618,"F","Philosophy, Politics and Economics","Economics",NA,"A"
+"452","N379119412207","F","Other","ay1819","Undecided",65.25822417,"F","Undecided","Economics",530,NA
+"453","N380119402207","F","East Asia","ay1819","ANTHROPOLOGY",73.49810883,"F","Anthropology","Literature",790,"A"
+"454","N381119425207","F","Singapore","ay1819","PSYCHOLOGY",77.68023909,"F","Psychology","Economics",NA,"C"
+"455","N382119424207","M","Europe","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",74.75993913,"M","Philosophy, Politics and Economics","Global Affairs",790,"C"
+"456","N383119423207","F","Singapore","ay1819","ANTHROPOLOGY",80.75702966,"F","Anthropology","Global Affairs",NA,"B"
+"457","N384119421207","F","Singapore","ay1819","ARTS AND HUMANITIES",75.67563571,"F","Arts & Humanities","Literature",NA,NA
+"458","N385119418207","F","East Asia","ay1819","PSYCHOLOGY",65.44378038,"F","Psychology","Philosophy, Politics and Economics",720,NA
+"459","N386119414207","F","Europe","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",83.11559466,"F","Mathematical, Computational and Statistical Sciences","Life Sciences",780,"B"
+"460","N387119413207","F","Singapore","ay1819","ARTS AND HUMANITIES",66.39570603,"F","Arts & Humanities","Literature",NA,"B"
+"461","N388119412207","F","Singapore","ay1819","ANTHROPOLOGY",72.13138438,"F","Anthropology","Psychology",NA,"A"
+"462","N389119410207","M","North America","ay1819","ECONOMICS",76.64638858,"M","Economics","Literature",760,"A"
+"463","N390119425207","F","Singapore","ay1819","PSYCHOLOGY",82.74437039,"F","Psychology","Life Sciences",NA,"A"
+"464","N391119424207","M","North America","ay1819","PHILOSOPHY",80.31935106,"M","Philosophy","Arts & Humanities",690,"B"
+"465","N392119423207","F","Singapore","ay1819","URBAN STUDIES",77.29007808,"F","Urban Studies","Psychology",NA,NA
+"466","N393119421207","M","Singapore","ay1819","PSYCHOLOGY",78.91105913,"M","Psychology","Philosophy",NA,NA
+"467","N394119418207","F","Singapore","ay1819","LITERATURE",76.69881048,"F","Literature","Psychology",NA,"A"
+"468","N395119414207","M","Singapore","ay1819","ARTS AND HUMANITIES",71.75399136,"M","Arts & Humanities","Life Sciences",NA,NA
+"469","N396119413207","F","Europe","ay1819","PHYSICAL SCIENCES",85.50855372,"F","Physical Sciences","Arts & Humanities",790,"A"
+"470","N397119412207","F","East Asia","ay1819","LIFE SCIENCES",77.38017848,"F","Life Sciences","Physical Sciences",780,"A"
+"471","N398119410207","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",86.96291559,"M","Philosophy, Politics and Economics","Undecided",NA,NA
+"472","N300119414208","F","Singapore","ay1819","ANTHROPOLOGY",81.92932276,"F","Anthropology","Life Sciences",NA,NA
+"473","N301119413208","F","Other","ay1819","PHYSICAL SCIENCES",72.31701034,"F","Physical Sciences","Environmental Studies",620,NA
+"474","N302119412208","F","North America","ay1819","LIFE SCIENCES",80.83612291,"F","Life Sciences","History",620,NA
+"475","N303119410208","F","Other","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",74.18888351,"F","Mathematical, Computational and Statistical Sciences","Life Sciences",650,"B"
+"476","N304119408208","F","Southeast Asia","ay1819","Undecided",82.21623428,"F","Undecided","Psychology",770,"A"
+"477","N305119405208","F","Singapore","ay1819","PSYCHOLOGY",81.02403104,"F","Psychology","Arts & Humanities",NA,NA
+"478","N306119401208","F","Singapore","ay1819","PSYCHOLOGY",75.59392525,"F","Psychology","Urban Studies",NA,NA
+"479","N307119402208","F","Singapore","ay1819","URBAN STUDIES",78.39379722,"F","Urban Studies","Environmental Studies",NA,"A"
+"480","N308119425208","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",70.47719662,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"481","N309119424208","F","Southeast Asia","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",81.29412087,"F","Philosophy, Politics and Economics","Global Affairs",800,NA
+"482","N310119413208","F","Singapore","ay1819","ENVIRONMENTAL STUDIES",78.50688507,"F","Environmental Studies","Global Affairs",NA,"B"
+"483","N311119412208","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",90.44306738,"M","Philosophy, Politics and Economics","Global Affairs",NA,"A"
+"484","N312119410208","M","Europe","ay1819","LIFE SCIENCES",81.31468706,"M","Life Sciences","Global Affairs",780,"B"
+"485","N313119408208","F","South Asia","ay1819","ECONOMICS",77.6200782,"F","Economics","Undecided",780,NA
+"486","N314119405208","F","East Asia","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",82.77034769,"F","Mathematical, Computational and Statistical Sciences","Philosophy",780,NA
+"487","N315119401208","M","Singapore","ay1819","LITERATURE",75.93856442,"M","Literature","Philosophy, Politics and Economics",NA,NA
+"488","N316119402208","F","Europe","ay1819","LIFE SCIENCES",80.78430083,"F","Life Sciences","Physical Sciences",610,"B"
+"489","N317119425208","M","Singapore","ay1819","ANTHROPOLOGY",78.98465922,"M","Anthropology","Anthropology",710,"B"
+"490","N318119424208","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",76.62174824,"M","Philosophy, Politics and Economics","History",NA,NA
+"491","N319119423208","F","North America","ay1819","LIFE SCIENCES",80.31219061,"F","Life Sciences","Physical Sciences",760,NA
+"492","N320119412208","M","South Asia","ay1819","Undecided",78.12383727,"M","Undecided","Philosophy, Politics and Economics",740,NA
+"493","N321119410208","F","Southeast Asia","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",75.68313454,"F","Mathematical, Computational and Statistical Sciences","Physical Sciences",790,NA
+"494","N322119408208","M","Singapore","ay1819","HISTORY",78.37297867,"M","History","Philosophy, Politics and Economics",NA,"A"
+"495","N324119401208","F","Singapore","ay1819","PSYCHOLOGY",87.78879287,"F","Psychology","Mathematical, Computational and Statistical Sciences",NA,"A"
+"496","N325119402208","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",76.3534103,"F","Philosophy, Politics and Economics","Literature",NA,"A"
+"497","N326119425208","M","East Asia","ay1819","ECONOMICS",69.51487048,"M","Economics","Life Sciences",800,"A"
+"498","N327119424208","F","Southeast Asia","ay1819","URBAN STUDIES",76.72053619,"F","Urban Studies","Philosophy, Politics and Economics",780,NA
+"499","N328119423208","F","Singapore","ay1819","ENVIRONMENTAL STUDIES",74.31526843,"F","Environmental Studies","Arts & Humanities",NA,NA
+"500","N329119421208","F","South Asia","ay1819","PSYCHOLOGY",77.222021,"F","Psychology","Global Affairs",730,NA
+"501","N330119410208","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",83.43765686,"F","Philosophy, Politics and Economics","Physical Sciences",NA,"A"
+"502","N331119408208","F","East Asia","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",74.73433378,"F","Philosophy, Politics and Economics","Global Affairs",780,NA
+"503","N332119405208","F","Other","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",76.84307738,"F","Philosophy, Politics and Economics","Global Affairs",760,NA
+"504","N333119401208","F","Singapore","ay1819","PSYCHOLOGY",67.55921327,"F","Psychology","Undecided",NA,NA
+"505","N334119402208","M","Singapore","ay1819","GLOBAL AFFAIRS",76.20684916,"M","Global Affairs","Philosophy, Politics and Economics",630,NA
+"506","N335119425208","F","Singapore","ay1819","ARTS AND HUMANITIES",71.15732125,"F","Arts & Humanities","Philosophy, Politics and Economics",NA,"B"
+"507","N336119424208","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",84.38320656,"F","Philosophy, Politics and Economics","Anthropology",780,"B"
+"508","N337119423208","M","North America","ay1819","PHILOSOPHY",79.98670071,"M","Philosophy","Global Affairs",680,"B"
+"509","N339119418208","M","Singapore","ay1819","ARTS AND HUMANITIES",69.54926619,"M","Arts & Humanities","Undecided",NA,"C"
+"510","N340119408208","M","East Asia","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",75.57133794,"M","Philosophy, Politics and Economics","Global Affairs",720,"C"
+"511","N341119405208","F","Europe","ay1819","GLOBAL AFFAIRS",80.40311588,"F","Global Affairs","Philosophy, Politics and Economics",680,NA
+"512","N342119401208","M","Southeast Asia","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",86.02139795,"M","Mathematical, Computational and Statistical Sciences","Economics",790,"A"
+"513","N343119402208","F","Other","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",78.01628074,"F","Philosophy, Politics and Economics","Global Affairs",680,NA
+"514","N344119425208","M","North America","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",76.66198605,"M","Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",780,"A"
+"515","N345119424208","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",75.74458545,"F","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"516","N346119423208","F","Singapore","ay1819","LIFE SCIENCES",74.00718703,"F","Life Sciences","Environmental Studies",750,"A"
+"517","N347119421208","M","Singapore","ay1819","ECONOMICS",83.22493115,"M","Economics","Arts & Humanities",NA,"A"
+"518","N348119418208","F","Singapore","ay1819","ECONOMICS",75.09895046,"F","Economics","Global Affairs",NA,"B"
+"519","N349119414208","M","Southeast Asia","ay1819","PHYSICAL SCIENCES",77.72026702,"M","Physical Sciences","Mathematical, Computational and Statistical Sciences",760,NA
+"520","N351119401208","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",77.85470498,"F","Philosophy, Politics and Economics","Economics",NA,"A"
+"521","N352119402208","F","South Asia","ay1819","ECONOMICS",88.00392544,"F","Economics","Arts & Humanities",800,"A"
+"522","N353119425208","M","Singapore","ay1819","URBAN STUDIES",83.53114131,"M","Urban Studies","Anthropology",NA,"A"
+"523","N354119424208","F","Europe","ay1819","LIFE SCIENCES",81.11274435,"F","Life Sciences","Psychology",NA,"B"
+"524","N355119423208","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",78.0803827,"F","Philosophy, Politics and Economics","Economics",780,"A"
+"525","N356119421208","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",79.00138709,"F","Philosophy, Politics and Economics","Global Affairs",720,"A"
+"526","N357119418208","M","Europe","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",77.98405601,"M","Philosophy, Politics and Economics","Global Affairs",700,NA
+"527","N358119414208","F","Singapore","ay1819","LITERATURE",69.9390469,"F","Literature","Literature",NA,"B"
+"528","N359119413208","M","North America","ay1819","LIFE SCIENCES",78.83976012,"M","Life Sciences","Arts & Humanities",700,"B"
+"529","N360119401208","M","South Asia","ay1819","LIFE SCIENCES",81.50159841,"M","Life Sciences","Mathematical, Computational and Statistical Sciences",760,"A"
+"530","N361119402208","M","Singapore","ay1819","HISTORY",80.03652803,"M","History","Philosophy, Politics and Economics",760,NA
+"531","N362119425208","F","Europe","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",79.03459874,"F","Philosophy, Politics and Economics","Economics",720,NA
+"532","N363119424208","F","Singapore","ay1819","LITERATURE",75.14816257,"F","Literature","Anthropology",NA,NA
+"533","N364119423208","F","Singapore","ay1819","ARTS AND HUMANITIES",74.71603529,"F","Arts & Humanities","Philosophy, Politics and Economics",790,"A"
+"534","N365119421208","M","Singapore","ay1819","ENVIRONMENTAL STUDIES",83.78095606,"M","Environmental Studies","Life Sciences",NA,NA
+"535","N366119418208","M","Other","ay1819","LIFE SCIENCES",79.07209783,"M","Life Sciences","Life Sciences",800,NA
+"536","N367119414208","M","North America","ay1819","URBAN STUDIES",82.07795873,"M","Urban Studies","Economics",760,NA
+"537","N368119413208","F","Other","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",75.08755956,"F","Philosophy, Politics and Economics","Global Affairs",640,NA
+"538","N369119412208","F","East Asia","ay1819","ENVIRONMENTAL STUDIES",82.89375168,"F","Environmental Studies","Philosophy, Politics and Economics",800,NA
+"539","N370119402208","M","Other","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",79.19828755,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",740,NA
+"540","N371119425208","M","Other","ay1819","ECONOMICS",70.33519824,"M","Economics","Philosophy, Politics and Economics",790,NA
+"541","N372119424208","M","Europe","ay1819","ECONOMICS",76.39220291,"M","Economics","Mathematical, Computational and Statistical Sciences",750,"A"
+"542","N373119423208","F","Singapore","ay1819","ECONOMICS",82.25886177,"F","Economics","Global Affairs",NA,"A"
+"543","N376119414208","F","North America","ay1819","GLOBAL AFFAIRS",77.02458097,"F","Global Affairs","Anthropology",710,NA
+"544","N377119413208","M","Singapore","ay1819","ARTS AND HUMANITIES",82.26178718,"M","Arts & Humanities","Physical Sciences",NA,"A"
+"545","N378119412208","M","Singapore","ay1819","ECONOMICS",76.82503392,"M","Economics","Global Affairs",800,"A"
+"546","N379119410208","F","East Asia","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",86.64648186,"F","Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",800,"A"
+"547","N380119425208","M","East Asia","ay1819","ECONOMICS",85.47238865,"M","Economics","Philosophy, Politics and Economics",800,NA
+"548","N381119424208","F","Singapore","ay1819","LITERATURE",67.99037804,"F","Literature","Arts & Humanities",NA,NA
+"549","N382119423208","M","Singapore","ay1819","LITERATURE",78.6366339,"M","Literature","Psychology",NA,"B"
+"550","N383119421208","F","South Asia","ay1819","GLOBAL AFFAIRS",74.03627322,"F","Global Affairs","Arts & Humanities",680,NA
+"551","N384119418208","F","Singapore","ay1819","LITERATURE",76.25198794,"F","Literature","Philosophy, Politics and Economics",690,"A"
+"552","N385119414208","F","North America","ay1819","GLOBAL AFFAIRS",67.76557776,NA,NA,NA,NA,NA
+"553","N386119413208","M","East Asia","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",80.85931655,"M","Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",770,"B"
+"554","N387119412208","F","Singapore","ay1819","ARTS AND HUMANITIES",71.23109151,"F","Arts & Humanities","Anthropology",NA,"C"
+"555","N388119410208","M","Singapore","ay1819","ECONOMICS",89.43736685,"M","Economics","Philosophy, Politics and Economics",NA,"A"
+"556","N389119408208","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",79.20942248,"F","Philosophy, Politics and Economics","Undecided",NA,"B"
+"557","N390119424208","M","Singapore","ay1819","PSYCHOLOGY",68.1209371,"M","Psychology","Philosophy",NA,NA
+"558","N391119423208","F","Singapore","ay1819","LITERATURE",76.97418998,"F","Literature","Arts & Humanities",NA,"A"
+"559","N392119421208","M","Singapore","ay1819","ECONOMICS",77.81693877,"M","Economics","Life Sciences",NA,"A"
+"560","N393119418208","F","Singapore","ay1819","Undecided",78.12472523,"F","Undecided","Undecided",NA,"A"
+"561","N394119414208","M","South Asia","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",74.71792121,"M","Philosophy, Politics and Economics","Economics",710,NA
+"562","N396119412208","M","Singapore","ay1819","PHILOSOPHY",81.9965037,"M","Philosophy","Mathematical, Computational and Statistical Sciences",NA,"A"
+"563","N397119410208","F","Singapore","ay1819","LITERATURE",78.40684426,"F","Literature","Arts & Humanities",NA,"A"
+"564","N398119408208","M","Europe","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",81.0895036,"M","Mathematical, Computational and Statistical Sciences","Mathematical, Computational and Statistical Sciences",740,NA
+"565","N399119405208","M","East Asia","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",80.47626382,"M","Mathematical, Computational and Statistical Sciences","Undecided",770,NA
+"566","N300119413209","M","South Asia","ay1819","ECONOMICS",78.60165545,"M","Economics","Philosophy, Politics and Economics",710,NA
+"567","N301119412209","F","South Asia","ay1819","ECONOMICS",78.60190998,"F","Economics","Life Sciences",740,NA
+"568","N302119410209","M","Southeast Asia","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",76.32445779,"M","Mathematical, Computational and Statistical Sciences","Economics",770,"B"
+"569","N303119408209","F","Singapore","ay1819","ANTHROPOLOGY",73.30359116,"F","Anthropology","Urban Studies",NA,NA
+"570","N304119405209","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",71.38385289,"F","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"571","N305119401209","F","Singapore","ay1819","ANTHROPOLOGY",78.4103131,"F","Anthropology","Environmental Studies",720,NA
+"572","N306119402209","M","Singapore","ay1819","HISTORY",72.15300642,"M","History","Global Affairs",NA,"C"
+"573","N307119425209","M","East Asia","ay1819","Undecided",74.07287839,"M","Undecided","Undecided",760,NA
+"574","N308119424209","F","Singapore","ay1819","PSYCHOLOGY",76.73771412,"F","Psychology","Economics",NA,"A"
+"575","N309119423209","F","Singapore","ay1819","ANTHROPOLOGY",75.02702342,"F","Anthropology","Arts & Humanities",NA,"B"
+"576","N310119412209","F","Other","ay1819","GLOBAL AFFAIRS",74.59054991,"F","Global Affairs","History",660,NA
+"577","N311119410209","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",79.40245523,"M","Philosophy, Politics and Economics","Global Affairs",690,NA
+"578","N312119408209","F","Singapore","ay1819","ENVIRONMENTAL STUDIES",76.51169327,"F","Environmental Studies","Philosophy, Politics and Economics",NA,NA
+"579","N313119405209","F","North America","ay1819","PSYCHOLOGY",78.87573495,"F","Psychology","Philosophy",790,"D"
+"580","N314119401209","F","Singapore","ay1819","PSYCHOLOGY",76.24724811,"F","Psychology","Environmental Studies",NA,"A"
+"581","N315119402209","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",81.57239847,"F","Philosophy, Politics and Economics","Literature",NA,"B"
+"582","N316119425209","F","Singapore","ay1819","ANTHROPOLOGY",76.26374503,"F","Anthropology","Arts & Humanities",NA,NA
+"583","N317119424209","M","Singapore","ay1819","HISTORY",75.87468596,"M","History","Literature",NA,"A"
+"584","N318119423209","M","Singapore","ay1819","ANTHROPOLOGY",78.94411896,"M","Anthropology","Philosophy, Politics and Economics",NA,NA
+"585","N319119421209","F","North America","ay1819","GLOBAL AFFAIRS",84.56822207,"F","Global Affairs","Philosophy, Politics and Economics",730,"A"
+"586","N320119410209","F","Other","ay1819","GLOBAL AFFAIRS",71.78325383,"F","Global Affairs","Philosophy, Politics and Economics",740,NA
+"587","N321119408209","M","East Asia","ay1819","ENVIRONMENTAL STUDIES",79.47462474,"M","Environmental Studies","Economics",800,"A"
+"588","N322119405209","M","Southeast Asia","ay1819","ECONOMICS",85.78031262,"M","Economics","Philosophy, Politics and Economics",770,"C"
+"589","N323119401209","F","Singapore","ay1819","Undecided",86.93582636,"F","Undecided","Undecided",NA,"A"
+"590","N324119402209","M","Singapore","ay1819","HISTORY",72.61554113,"M","History","Global Affairs",NA,"B"
+"591","N325119425209","F","Singapore","ay1819","Undecided",80.1562807,"F","Life Sciences","Philosophy, Politics and Economics",800,NA
+"592","N326119424209","M","Singapore","ay1819","PHILOSOPHY",82.63642953,"M","Philosophy","Psychology",NA,"A"
+"593","N327119423209","F","Other","ay1819","LIFE SCIENCES",80.86218981,"F","Life Sciences",NA,740,NA
+"594","N328119421209","F","Singapore","ay1819","LITERATURE",76.07793531,"F","Literature","Anthropology",NA,NA
+"595","N329119418209","F","South Asia","ay1819","PSYCHOLOGY",76.89403081,"F","Psychology","Literature",720,"B"
+"596","N330119408209","F","North America","ay1819","GLOBAL AFFAIRS",75.51401413,"F","Global Affairs","Philosophy, Politics and Economics",700,NA
+"597","N331119405209","M","North America","ay1819","GLOBAL AFFAIRS",74.57324921,"M","Global Affairs","Philosophy, Politics and Economics",780,NA
+"598","N332119401209","F","Singapore","ay1819","PHILOSOPHY",75.09617861,"F","Philosophy","Literature",NA,NA
+"599","N333119402209","F","East Asia","ay1819","PSYCHOLOGY",78.55847726,"F","Psychology","History",780,NA
+"600","N334119425209","M","Singapore","ay1819","GLOBAL AFFAIRS",74.85379781,"M","Global Affairs","Philosophy, Politics and Economics",NA,"B"
+"601","N335119424209","F","North America","ay1819","ENVIRONMENTAL STUDIES",81.35349032,"F","Environmental Studies","Economics",780,"C"
+"602","N336119423209","M","Singapore","ay1819","PSYCHOLOGY",76.32589328,"M","Psychology","Economics",730,"A"
+"603","N337119421209","M","Singapore","ay1819","LIFE SCIENCES",80.57837674,"M","Life Sciences",NA,720,NA
+"604","N338119418209","F","Singapore","ay1819","GLOBAL AFFAIRS",75.13535819,"F","Global Affairs","Environmental Studies",NA,NA
+"605","N339119414209","F","East Asia","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",59.00728008,"F","Philosophy, Politics and Economics","Urban Studies",690,NA
+"606","N340119405209","M","Southeast Asia","ay1819","ECONOMICS",76.31999674,"M","Economics","Undecided",720,NA
+"607","N342119402209","M","East Asia","ay1819","GLOBAL AFFAIRS",69.88258987,"M","Global Affairs","History",710,NA
+"608","N343119425209","F","Southeast Asia","ay1819","PSYCHOLOGY",76.8619304,"F","Psychology","Life Sciences",NA,"A"
+"609","N344119424209","M","Singapore","ay1819","ECONOMICS",74.57584613,"M","Economics","Anthropology",NA,"B"
+"610","N345119423209","M","South Asia","ay1819","PHYSICAL SCIENCES",71.55217695,"M","Physical Sciences","Undecided",710,NA
+"611","N346119421209","M","South Asia","ay1819","ARTS AND HUMANITIES",71.62540699,"M","Arts & Humanities","Literature",680,NA
+"612","N347119418209","M","Europe","ay1819","URBAN STUDIES",77.54919871,"M","Urban Studies","History",700,NA
+"613","N348119414209","F","East Asia","ay1819","ANTHROPOLOGY",75.12612769,"F","Anthropology","Global Affairs",800,NA
+"614","N349119413209","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",77.67948944,"M","Philosophy, Politics and Economics","Global Affairs",NA,"B"
+"615","N350119401209","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",78.75991222,"F","Philosophy, Politics and Economics","Global Affairs",NA,"B"
+"616","N351119402209","M","Singapore","ay1819","PSYCHOLOGY",86.81918968,"M","Psychology","Mathematical, Computational and Statistical Sciences",NA,"A"
+"617","N352119425209","F","East Asia","ay1819","LIFE SCIENCES",85.26039911,"F","Life Sciences","Arts & Humanities",790,"A"
+"618","N353119424209","F","Singapore","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",74.09941793,"F","Mathematical, Computational and Statistical Sciences","Philosophy, Politics and Economics",NA,NA
+"619","N354119423209","F","Southeast Asia","ay1819","GLOBAL AFFAIRS",83.41369254,"F","Global Affairs","Philosophy, Politics and Economics",720,NA
+"620","N355119421209","F","Singapore","ay1819","ARTS AND HUMANITIES",73.6535801,NA,NA,NA,NA,NA
+"621","N356119418209","M","Southeast Asia","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",69.41137513,"M","Mathematical, Computational and Statistical Sciences","Physical Sciences",780,"A"
+"622","N357119414209","M","Singapore","ay1819","PHILOSOPHY",75.06654743,"M","Philosophy","Arts & Humanities",NA,NA
+"623","N359119412209","F","Europe","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",72.65987957,"F","Philosophy, Politics and Economics","Philosophy, Politics and Economics",720,NA
+"624","N360119402209","M","South Asia","ay1819","Undecided",79.39008889,"M","Undecided","Economics",780,NA
+"625","N361119425209","M","Singapore","ay1819","ECONOMICS",81.39077421,"M","Economics","Philosophy, Politics and Economics",700,"C"
+"626","N362119424209","F","Singapore","ay1819","ARTS AND HUMANITIES",80.47147611,"F","Arts & Humanities","Psychology",730,NA
+"627","N363119423209","M","East Asia","ay1819","ECONOMICS",83.8776888,"M","Economics","Philosophy, Politics and Economics",NA,NA
+"628","N364119421209","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",78.20739087,"F","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"629","N365119418209","F","East Asia","ay1819","ARTS AND HUMANITIES",78.36757875,"F","Arts & Humanities","Urban Studies",740,NA
+"630","N366119414209","F","Singapore","ay1819","LITERATURE",76.71961726,"F","Literature","Arts & Humanities",NA,"A"
+"631","N367119413209","M","Europe","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",81.26889028,"M","Philosophy, Politics and Economics","Philosophy",740,"D"
+"632","N368119412209","F","Singapore","ay1819","LIFE SCIENCES",78.75055278,"F","Life Sciences","Undecided",740,NA
+"633","N369119410209","F","Singapore","ay1819","ARTS AND HUMANITIES",85.7172924,"F","Arts & Humanities","Philosophy, Politics and Economics",750,"B"
+"634","N371119424209","F","Singapore","ay1819","PSYCHOLOGY",76.08321746,"F","Psychology","Arts & Humanities",NA,NA
+"635","N372119423209","F","Singapore","ay1819","ANTHROPOLOGY",76.66365168,"F","Anthropology","History",NA,"A"
+"636","N373119421209","M","Singapore","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",84.55025618,"M","Mathematical, Computational and Statistical Sciences","Economics",740,"A"
+"637","N374119418209","F","Singapore","ay1819","ANTHROPOLOGY",85.56114075,"F","Anthropology","Arts & Humanities",NA,"A"
+"638","N375119414209","M","North America","ay1819","ENVIRONMENTAL STUDIES",85.42618682,"M","Environmental Studies","Life Sciences",780,"A"
+"639","N376119413209","F","East Asia","ay1819","Undecided",81.58343249,"F","Undecided","Psychology",780,"A"
+"640","N377119412209","M","North America","ay1819","HISTORY",84.70685295,"M","History","Mathematical, Computational and Statistical Sciences",700,"A"
+"641","N378119410209","F","Europe","ay1819","LIFE SCIENCES",72.19332908,"F","Life Sciences","Literature",740,NA
+"642","N379119408209","F","Singapore","ay1819","Undecided",74.69652469,"F","Undecided","Undecided",NA,NA
+"643","N380119424209","M","Singapore","ay1819","ECONOMICS",84.05024733,"M","Economics","Philosophy, Politics and Economics",NA,"A"
+"644","N381119423209","F","North America","ay1819","GLOBAL AFFAIRS",72.43408618,"F","Global Affairs","Physical Sciences",780,"B"
+"645","N382119421209","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",75.83243202,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"646","N383119418209","M","Europe","ay1819","GLOBAL AFFAIRS",81.00109427,"M","Global Affairs","Philosophy, Politics and Economics",NA,"A"
+"647","N384119414209","F","Singapore","ay1819","HISTORY",84.03018945,"F","History","Global Affairs",710,"A"
+"648","N319119405212","M","Singapore","ay1819","ENVIRONMENTAL STUDIES",83.69248361,"M","Environmental Studies","Philosophy, Politics and Economics",790,NA
+"649","N320119423212","M","Singapore","ay1819","ARTS AND HUMANITIES",66.80231148,"M","Arts & Humanities","Undecided",NA,NA
+"650","N321119421212","M","Singapore","ay1819","URBAN STUDIES",79.75202245,"M","Urban Studies","Arts & Humanities",NA,NA
+"651","N322119418212","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",81.59053311,"M","Philosophy, Politics and Economics","Anthropology",NA,NA
+"652","N323119414212","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",76.49810958,"M","Philosophy, Politics and Economics","Literature",NA,NA
+"653","N324119413212","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",76.8699989,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"654","N325119412212","M","Singapore","ay1819","LITERATURE",82.50638341,"M","Literature","Anthropology",800,NA
+"655","N326119410212","M","Singapore","ay1819","ARTS AND HUMANITIES",79.78941579,"M","Arts & Humanities","Economics",NA,NA
+"656","N327119408212","M","Singapore","ay1819","ARTS AND HUMANITIES",74.81876314,"M","Arts & Humanities","Economics",NA,NA
+"657","N328119405212","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",75.7570074,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"658","N329119401212","F","Singapore","ay1819","ENVIRONMENTAL STUDIES",88.28122203,"F","Environmental Studies","Economics",NA,NA
+"659","N330119421212","M","Singapore","ay1819","ARTS AND HUMANITIES",81.50286475,"M","Arts & Humanities","Psychology",NA,NA
+"660","N331119418212","M","Singapore","ay1819","PSYCHOLOGY",82.54469661,"M","Psychology","Philosophy, Politics and Economics",NA,NA
+"661","N332119414212","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",79.85908326,"M","Philosophy, Politics and Economics","Arts & Humanities",NA,NA
+"662","N333119413212","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",82.82953388,"M","Philosophy, Politics and Economics","Undecided",NA,NA
+"663","N334119412212","M","Singapore","ay1819","MATHEMATICAL, COMPUTATIONAL AND STATISTICAL SCIENCES",90.98933964,"M","Mathematical, Computational and Statistical Sciences","Psychology",800,NA
+"664","N376119418216","M","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",73.52293774,"M","Philosophy, Politics and Economics","Global Affairs",NA,NA
+"665","N377119414216","M","Singapore","ay1819","LITERATURE",72.89182804,"M","Literature","Life Sciences",NA,NA
+"666","N378119413216","F","Singapore","ay1819","ANTHROPOLOGY",79.43691461,"F","Anthropology","Undecided",NA,"B"
+"667","N379119412216","F","Singapore","ay1819","LITERATURE",70.03275603,"F","Literature","Arts & Humanities",NA,"B"
+"668","N380119402216","F","North America","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",58.16707388,"F","Philosophy, Politics and Economics","Arts & Humanities",730,NA
+"669","N314119402219","F","Singapore","ay1819","PSYCHOLOGY",77.03047992,"F","Psychology","Arts & Humanities",NA,"A"
+"670","N316119424219","F","Singapore","ay1819","ARTS AND HUMANITIES",72.02101437,"F","Arts & Humanities","Undecided",NA,"A"
+"671","N317119423219","F","Singapore","ay1819","LIFE SCIENCES",77.3374925,"F","Life Sciences","Arts & Humanities",790,NA
+"672","N318119421219","M","East Asia","ay1819","GLOBAL AFFAIRS",76.10765403,"M","Global Affairs","Philosophy, Politics and Economics",790,"A"
+"673","N320119408219","F","Singapore","ay1819","LITERATURE",79.31406529,"F","Literature","Literature",NA,NA
+"674","N322119401219","F","South Asia","ay1819","Undecided",80.08501688,"F","Undecided","Physical Sciences",760,"A"
+"675","N324119425219","F","Europe","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",79.60061194,"F","Philosophy, Politics and Economics","Economics",640,"B"
+"676","N325119424219","F","Singapore","ay1819","GLOBAL AFFAIRS",75.35657431,"F","Global Affairs","Psychology",790,"B"
+"677","N399119414221","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",79.84671126,"F","Philosophy, Politics and Economics","Economics",710,"B"
+"678","N300119424222","F","Singapore","ay1819","PHILOSOPHY, POLITICS AND ECONOMICS",75.08780212,"F","Philosophy, Politics and Economics","Global Affairs",690,NA
